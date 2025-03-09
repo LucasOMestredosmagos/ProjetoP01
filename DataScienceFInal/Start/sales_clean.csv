@@ -1,0 +1,1001 @@
+Sale ID,Date,Product,Category,Quantity,Price_Unitary,Seller,Payment Method,Total_Sales
+157,2024-07-17,Pants,Clothing,95,576.64,Pedro,Debit Card,54780.799999999996
+350,2024-04-14,Laptop,Electronics,100,545.78,Jose,Credit Card,54578.0
+757,2024-08-13,backpack,Accessories,95,558.76,Ana,Pix,53082.2
+781,2024-05-23,Book,Books,96,541.07,Ana,Transfer,51942.72
+911,2024-01-20,Laptop,Electronics,98,523.13,Carlos,Pix,51266.74
+106,2024-06-09,Socks,Clothing,97,525.23,Maria,Pix,50947.310000000005
+870,2024-10-17,Socks,Clothing,88,577.97,Jose,Pix,50861.36
+389,2024-11-06,Hat,Clothing,97,523.81,Pedro,Debit Card,50809.56999999999
+311,2024-02-24,T-shirt,Clothing,99,509.36,Ana,Debit Card,50426.64
+721,2024-05-28,Shoes,Clothing,98,514.12,Lucas,Credit Card,50383.76
+865,2024-10-14,Shoes,Clothing,98,512.15,Pedro,Pix,50190.7
+682,2024-09-27,Pants,Clothing,96,499.09,Jose,Paypal,47912.64
+535,2024-10-05,backpack,Accessories,83,569.55,Mariana,Boleto,47272.649999999994
+241,2024-10-11,Hat,Clothing,93,501.26,Carlos,Paypal,46617.18
+423,2024-09-26,Socks,Clothing,80,576.65,Maria,Transfer,46132.0
+258,2024-06-20,Socks,Clothing,96,479.11,Pedro,Boleto,45994.56
+928,2024-08-16,Book,Books,96,475.42,Julia,Paypal,45640.32
+116,2024-09-21,Mouse,Electronics,99,455.41,Jose,Pix,45085.590000000004
+11,2024-05-27,Pants,Clothing,79,568.81,Jose,Credit Card,44935.99
+244,2024-12-02,Mouse,Electronics,100,447.35,Mariana,Boleto,44735.0
+978,2024-08-09,backpack,Accessories,90,495.73,Mariana,Transfer,44615.700000000004
+18,2024-10-04,Socks,Clothing,79,564.58,Maria,Credit Card,44601.82
+557,2024-09-11,Hat,Clothing,92,484.12,Larissa,Transfer,44539.04
+893,2024-05-26,T-shirt,Clothing,78,570.33,Carlos,Boleto,44485.740000000005
+8,2024-05-01,T-shirt,Clothing,88,505.09,Joao,Transfer,44447.92
+199,2024-03-24,T-shirt,Clothing,86,513.6,Lucas,Credit Card,44169.6
+145,2024-09-06,Shoes,Clothing,85,519.19,Julia,Boleto,44131.15
+765,2024-08-31,Pants,Clothing,99,444.0,Joao,Paypal,43956.0
+394,2024-08-01,Headphone,Electronics,85,510.48,Maria,Debit Card,43390.8
+881,2024-08-31,Socks,Clothing,95,455.7,Pedro,Boleto,43291.5
+277,2024-02-06,Pants,Clothing,88,489.28,Mariana,Paypal,43056.64
+857,2024-08-30,Headphone,Electronics,94,456.65,Larissa,Credit Card,42925.1
+491,2024-04-09,Book,Books,99,432.93,Jose,Paypal,42860.07
+113,2024-05-30,Shoes,Clothing,85,502.61,Pedro,Pix,42721.85
+4,2024-02-29,Laptop,Electronics,75,568.35,Joao,Pix,42626.25
+156,2024-06-11,backpack,Accessories,93,456.16,Jose,Boleto,42422.880000000005
+279,2024-01-16,Headphone,Electronics,89,473.39,Lucas,Debit Card,42131.71
+295,2024-02-14,Pants,Clothing,86,489.35,Mariana,Debit Card,42084.1
+764,2024-07-08,backpack,Accessories,83,506.06,Julia,Paypal,42002.98
+24,2024-04-26,Hat,Clothing,75,558.71,Maria,Pix,41903.25
+488,2024-06-15,Book,Books,84,498.26,Ana,Credit Card,41853.84
+351,2024-12-14,backpack,Accessories,82,509.86,Larissa,Paypal,41808.520000000004
+926,2024-05-15,Laptop,Electronics,80,513.5,Mariana,Credit Card,41080.0
+92,2024-08-10,Laptop,Electronics,75,546.55,Lucas,Boleto,40991.25
+455,2024-02-26,Socks,Clothing,99,413.33,Maria,Credit Card,40919.67
+743,2024-08-27,Mouse,Electronics,84,486.44,Joao,Transfer,40860.96
+373,2024-07-30,Headphone,Electronics,76,535.06,Pedro,Debit Card,40664.56
+649,2024-04-02,Book,Books,70,576.88,Lucas,Pix,40381.6
+889,2024-09-09,Pants,Clothing,98,409.84,Carlos,Paypal,40164.32
+195,2024-12-06,Shoes,Clothing,95,421.7,Larissa,Paypal,40061.5
+892,2024-06-12,backpack,Accessories,97,412.09,Maria,Pix,39972.729999999996
+793,2024-08-22,T-shirt,Clothing,72,554.82,Larissa,Transfer,39947.04
+567,2024-08-24,Book,Books,72,549.27,Mariana,Boleto,39547.44
+732,2024-01-10,Hat,Clothing,77,513.1,Julia,Transfer,39508.700000000004
+291,2024-04-14,Pants,Clothing,100,389.92,Joao,Transfer,38992.0
+48,2024-11-19,T-shirt,Clothing,84,462.11,Julia,Credit Card,38817.24
+709,2024-08-16,backpack,Accessories,94,412.33,Mariana,Credit Card,38759.02
+545,2024-03-23,Headphone,Electronics,73,529.63,Lucas,Boleto,38662.99
+246,2024-10-11,Hat,Clothing,79,489.23,Carlos,Transfer,38649.17
+463,2024-09-15,Mouse,Electronics,78,491.26,Pedro,Pix,38318.28
+999,2024-08-02,Headphone,Electronics,78,482.67,Jose,Pix,37648.26
+802,2024-03-16,Laptop,Electronics,76,490.8,Larissa,Debit Card,37300.8
+635,2024-05-22,Laptop,Electronics,79,471.51,Jose,Boleto,37249.29
+493,2024-06-21,backpack,Accessories,66,563.72,Pedro,Transfer,37205.520000000004
+809,2024-12-16,Shoes,Clothing,94,392.9,Julia,Transfer,36932.6
+179,2024-06-15,T-shirt,Clothing,94,392.23,Pedro,Paypal,36869.62
+652,2024-07-25,backpack,Accessories,81,453.29,Ana,Boleto,36716.490000000005
+617,2024-07-09,Headphone,Electronics,77,473.69,Carlos,Transfer,36474.13
+336,2024-04-15,Hat,Clothing,83,439.25,Maria,Paypal,36457.75
+810,2024-07-01,Pants,Clothing,97,373.13,Maria,Boleto,36193.61
+952,2024-12-23,Shoes,Clothing,82,439.78,Joao,Transfer,36061.96
+861,2024-07-25,Shoes,Clothing,92,391.49,Mariana,Pix,36017.08
+190,2024-01-07,Socks,Clothing,86,417.99,Jose,Boleto,35947.14
+638,2024-11-09,Book,Books,98,365.95,Mariana,Debit Card,35863.1
+558,2024-12-19,T-shirt,Clothing,89,402.84,Ana,Boleto,35852.759999999995
+242,2024-08-30,Headphone,Electronics,96,372.77,Joao,Boleto,35785.92
+991,2024-12-03,Headphone,Electronics,76,467.12,Maria,Debit Card,35501.12
+541,2024-06-09,Pants,Clothing,90,393.48,Ana,Paypal,35413.200000000004
+289,2024-04-13,Shoes,Clothing,92,383.67,Joao,Transfer,35297.64
+811,2024-10-02,backpack,Accessories,80,440.79,Carlos,Credit Card,35263.200000000004
+494,2024-08-14,Laptop,Electronics,100,352.28,Larissa,Transfer,35228.0
+919,2024-11-24,Headphone,Electronics,91,387.09,Ana,Paypal,35225.189999999995
+452,2024-06-11,Shoes,Clothing,88,394.92,Julia,Transfer,34752.96
+654,2024-04-23,Laptop,Electronics,75,462.26,Joao,Credit Card,34669.5
+740,2024-04-06,Headphone,Electronics,81,427.8,Joao,Pix,34651.8
+121,2024-12-31,Mouse,Electronics,98,353.21,Julia,Transfer,34614.579999999994
+838,2024-11-06,Headphone,Electronics,60,576.5,Ana,Transfer,34590.0
+240,2024-03-20,T-shirt,Clothing,87,395.91,Maria,Pix,34444.170000000006
+554,2024-05-04,backpack,Accessories,71,484.75,Pedro,Transfer,34417.25
+465,2024-07-07,Shoes,Clothing,61,562.1,Julia,Pix,34288.1
+954,2024-10-04,backpack,Accessories,88,388.64,Jose,Pix,34200.32
+182,2024-01-22,backpack,Accessories,68,502.62,Joao,Credit Card,34178.16
+79,2024-11-19,Book,Books,86,396.31,Jose,Boleto,34082.66
+98,2024-07-09,Headphone,Electronics,70,484.72,Lucas,Pix,33930.4
+485,2024-07-10,Book,Books,72,470.12,Pedro,Debit Card,33848.64
+165,2024-08-31,Socks,Clothing,100,337.37,Julia,Boleto,33737.0
+872,2024-05-10,Book,Books,86,390.95,Ana,Debit Card,33621.7
+826,2024-05-21,Mouse,Electronics,76,437.86,Joao,Debit Card,33277.36
+947,2024-01-12,Hat,Clothing,69,482.16,Julia,Transfer,33269.04
+227,2024-04-13,backpack,Accessories,61,544.81,Maria,Boleto,33233.409999999996
+657,2024-03-11,backpack,Accessories,99,335.65,Mariana,Pix,33229.35
+269,2024-09-04,Shoes,Clothing,82,403.7,Lucas,Credit Card,33103.4
+318,2024-07-26,Laptop,Electronics,63,519.9,Jose,Pix,32753.699999999997
+457,2024-11-21,Socks,Clothing,97,336.85,Mariana,Transfer,32674.45
+905,2024-06-14,Mouse,Electronics,57,573.06,Julia,Paypal,32664.42
+783,2024-08-14,Pants,Clothing,87,375.27,Lucas,Boleto,32648.489999999998
+992,2024-01-23,backpack,Accessories,60,544.09,Maria,Debit Card,32645.4
+108,2024-10-05,Pants,Clothing,74,438.82,Pedro,Transfer,32472.68
+728,2024-03-21,backpack,Accessories,82,395.99,Jose,Credit Card,32471.18
+526,2024-07-09,Book,Books,83,389.85,Jose,Credit Card,32357.550000000003
+647,2024-09-26,Mouse,Electronics,58,555.46,Lucas,Debit Card,32216.68
+285,2024-05-12,Shoes,Clothing,99,324.74,Lucas,Pix,32149.260000000002
+755,2024-02-18,Book,Books,59,544.13,Mariana,Debit Card,32103.67
+439,2024-07-24,Pants,Clothing,82,389.73,Maria,Debit Card,31957.86
+310,2024-01-03,T-shirt,Clothing,71,447.98,Mariana,Boleto,31806.58
+10,2024-07-02,T-shirt,Clothing,57,557.67,Ana,Pix,31787.19
+581,2024-09-28,Pants,Clothing,79,401.71,Julia,Boleto,31735.09
+39,2024-10-15,Laptop,Electronics,58,545.75,Lucas,Pix,31653.5
+770,2024-09-28,Hat,Clothing,64,491.43,Joao,Credit Card,31451.52
+354,2024-08-11,Book,Books,90,349.17,Lucas,Paypal,31425.300000000003
+588,2024-04-10,Headphone,Electronics,78,401.96,Joao,Boleto,31352.879999999997
+738,2024-12-16,Book,Books,81,385.47,Larissa,Paypal,31223.070000000003
+374,2024-04-23,Socks,Clothing,57,545.92,Joao,Transfer,31117.44
+970,2024-08-04,Hat,Clothing,87,357.38,Joao,Transfer,31092.06
+355,2024-01-15,Mouse,Electronics,89,348.8,Carlos,Pix,31043.2
+695,2024-04-04,Pants,Clothing,77,400.65,Larissa,Pix,30850.05
+730,2024-04-10,Book,Books,55,560.55,Ana,Transfer,30830.249999999996
+335,2024-07-31,T-shirt,Clothing,86,357.41,Joao,Pix,30737.260000000002
+146,2024-10-21,Mouse,Electronics,79,388.34,Carlos,Credit Card,30678.859999999997
+360,2024-11-19,Headphone,Electronics,95,321.15,Pedro,Credit Card,30509.249999999996
+800,2024-05-03,Hat,Clothing,81,375.99,Julia,Debit Card,30455.190000000002
+643,2024-09-06,Socks,Clothing,57,529.98,Maria,Transfer,30208.86
+727,2024-02-27,Mouse,Electronics,81,372.79,Joao,Boleto,30195.99
+344,2024-01-18,Socks,Clothing,78,387.0,Carlos,Debit Card,30186.0
+676,2024-03-02,Pants,Clothing,82,367.54,Mariana,Boleto,30138.280000000002
+646,2024-09-26,Mouse,Electronics,76,395.69,Julia,Credit Card,30072.44
+238,2024-12-18,T-shirt,Clothing,52,576.73,Carlos,Credit Card,29989.96
+833,2024-02-05,Mouse,Electronics,81,369.86,Pedro,Debit Card,29958.66
+345,2024-06-22,T-shirt,Clothing,90,332.17,Maria,Boleto,29895.300000000003
+402,2024-10-31,Socks,Clothing,83,357.31,Larissa,Transfer,29656.73
+710,2024-07-24,T-shirt,Clothing,93,317.56,Larissa,Paypal,29533.08
+270,2024-04-02,Mouse,Electronics,65,453.22,Lucas,Pix,29459.300000000003
+479,2024-07-25,backpack,Accessories,68,432.7,Carlos,Paypal,29423.6
+178,2024-11-07,Book,Books,70,420.24,Maria,Debit Card,29416.8
+61,2024-01-01,Headphone,Electronics,60,487.4,Carlos,Paypal,29244.0
+969,2024-08-21,T-shirt,Clothing,69,422.69,Jose,Boleto,29165.61
+608,2024-10-06,Book,Books,63,462.5,Jose,Credit Card,29137.5
+22,2024-10-21,Book,Books,73,397.57,Jose,Boleto,29022.61
+260,2024-04-04,Hat,Clothing,53,547.54,Lucas,Paypal,29019.62
+891,2024-05-22,Mouse,Electronics,97,298.72,Maria,Debit Card,28975.840000000004
+489,2024-11-13,Pants,Clothing,72,399.7,Jose,Paypal,28778.399999999998
+896,2024-04-12,Laptop,Electronics,75,383.64,Julia,Pix,28773.0
+948,2024-12-01,Mouse,Electronics,51,562.37,Maria,Credit Card,28680.87
+396,2024-04-04,Mouse,Electronics,64,448.02,Jose,Pix,28673.28
+780,2024-09-22,Book,Books,66,432.19,Mariana,Boleto,28524.54
+76,2024-04-26,T-shirt,Clothing,72,395.67,Carlos,Debit Card,28488.24
+375,2024-01-16,Socks,Clothing,75,379.42,Joao,Transfer,28456.5
+747,2024-03-28,Mouse,Electronics,55,512.83,Carlos,Transfer,28205.65
+869,2024-05-18,T-shirt,Clothing,50,561.04,Carlos,Boleto,28052.0
+655,2024-01-19,backpack,Accessories,52,539.16,Joao,Credit Card,28036.32
+276,2024-11-09,Book,Books,57,490.96,Jose,Debit Card,27984.719999999998
+78,2024-11-05,backpack,Accessories,69,403.72,Julia,Debit Card,27856.68
+353,2024-01-07,Pants,Clothing,71,391.41,Julia,Boleto,27790.11
+678,2024-08-21,Socks,Clothing,100,277.52,Julia,Transfer,27752.0
+28,2024-10-20,T-shirt,Clothing,57,485.89,Carlos,Pix,27695.73
+163,2024-10-28,Socks,Clothing,51,540.99,Ana,Debit Card,27590.49
+347,2024-01-06,Mouse,Electronics,48,573.69,Lucas,Transfer,27537.120000000003
+744,2024-02-21,Book,Books,58,472.89,Joao,Paypal,27427.62
+187,2024-05-14,T-shirt,Clothing,57,479.36,Maria,Pix,27323.52
+314,2024-05-15,Book,Books,69,395.21,Julia,Transfer,27269.489999999998
+80,2024-04-12,Hat,Clothing,54,503.79,Ana,Boleto,27204.66
+720,2024-08-18,Laptop,Electronics,74,367.4,Carlos,Credit Card,27187.6
+548,2024-10-30,Mouse,Electronics,94,288.19,Larissa,Pix,27089.86
+119,2024-05-18,Book,Books,94,287.94,Mariana,Credit Card,27066.36
+495,2024-02-04,Shoes,Clothing,68,396.49,Carlos,Paypal,26961.32
+668,2024-12-16,Mouse,Electronics,60,448.5,Pedro,Paypal,26910.0
+845,2024-12-16,Shoes,Clothing,87,308.32,Larissa,Boleto,26823.84
+186,2024-04-03,Pants,Clothing,61,438.98,Ana,Transfer,26777.780000000002
+32,2024-07-25,Socks,Clothing,55,486.85,Carlos,Credit Card,26776.75
+427,2024-08-10,Shoes,Clothing,94,283.83,Lucas,Boleto,26680.019999999997
+342,2024-10-19,Socks,Clothing,82,323.89,Carlos,Debit Card,26558.98
+666,2024-06-27,Laptop,Electronics,87,305.25,Ana,Debit Card,26556.75
+60,2024-07-15,Hat,Clothing,50,528.06,Joao,Pix,26402.999999999996
+249,2024-05-27,Laptop,Electronics,59,446.51,Joao,Paypal,26344.09
+166,2024-12-12,Socks,Clothing,50,526.83,Mariana,Debit Card,26341.500000000004
+343,2024-11-20,Socks,Clothing,67,391.6,Ana,Pix,26237.2
+363,2024-08-15,Headphone,Electronics,71,369.48,Ana,Transfer,26233.08
+605,2024-01-22,T-shirt,Clothing,47,556.53,Jose,Boleto,26156.91
+70,2024-05-18,Book,Books,94,278.04,Joao,Pix,26135.760000000002
+151,2024-03-12,Laptop,Electronics,94,277.76,Carlos,Pix,26109.44
+787,2024-10-10,Pants,Clothing,70,372.64,Julia,Boleto,26084.8
+595,2024-01-15,backpack,Accessories,53,492.06,Joao,Debit Card,26079.18
+886,2024-06-18,Socks,Clothing,65,399.95,Maria,Transfer,25996.75
+305,2024-07-08,Shoes,Clothing,82,316.41,Carlos,Paypal,25945.620000000003
+221,2024-04-25,Socks,Clothing,79,327.48,Maria,Transfer,25870.920000000002
+942,2024-07-23,Pants,Clothing,46,561.66,Maria,Paypal,25836.359999999997
+689,2024-10-19,Hat,Clothing,49,526.56,Mariana,Pix,25801.44
+950,2024-12-26,Headphone,Electronics,84,307.02,Lucas,Pix,25789.68
+503,2024-02-11,Laptop,Electronics,70,367.75,Larissa,Paypal,25742.5
+904,2024-08-10,Laptop,Electronics,45,569.71,Ana,Transfer,25636.95
+392,2024-06-02,backpack,Accessories,62,412.0,Lucas,Credit Card,25544.0
+128,2024-05-29,Mouse,Electronics,78,326.76,Mariana,Transfer,25487.28
+481,2024-01-28,Hat,Clothing,54,471.52,Jose,Debit Card,25462.079999999998
+263,2024-11-09,Hat,Clothing,60,423.43,Mariana,Credit Card,25405.8
+26,2024-04-29,Socks,Clothing,48,527.66,Jose,Boleto,25327.68
+853,2024-07-16,Headphone,Electronics,45,559.05,Mariana,Transfer,25157.249999999996
+674,2024-04-12,Hat,Clothing,55,457.25,Carlos,Boleto,25148.75
+331,2024-07-20,Socks,Clothing,65,386.2,Joao,Boleto,25103.0
+778,2024-01-19,Mouse,Electronics,56,447.7,Joao,Paypal,25071.2
+797,2024-07-18,Hat,Clothing,86,291.49,Ana,Paypal,25068.14
+31,2024-01-22,T-shirt,Clothing,59,424.62,Joao,Credit Card,25052.58
+791,2024-07-10,Hat,Clothing,72,347.81,Jose,Credit Card,25042.32
+284,2024-06-23,Hat,Clothing,47,532.55,Pedro,Transfer,25029.85
+868,2024-06-24,Pants,Clothing,59,423.66,Joao,Credit Card,24995.940000000002
+441,2024-02-28,Mouse,Electronics,74,335.33,Joao,Debit Card,24814.42
+686,2024-06-07,backpack,Accessories,83,298.52,Ana,Debit Card,24777.16
+185,2024-08-02,Hat,Clothing,50,495.06,Larissa,Debit Card,24753.0
+327,2024-01-02,Socks,Clothing,52,474.2,Joao,Boleto,24658.399999999998
+68,2024-09-26,Hat,Clothing,95,259.32,Larissa,Debit Card,24635.399999999998
+859,2024-12-17,backpack,Accessories,43,572.79,Ana,Debit Card,24629.969999999998
+854,2024-09-11,Laptop,Electronics,48,511.87,Maria,Credit Card,24569.760000000002
+377,2024-12-27,backpack,Accessories,45,545.43,Mariana,Credit Card,24544.35
+104,2024-11-23,Mouse,Electronics,71,345.38,Maria,Debit Card,24521.98
+41,2024-07-12,Socks,Clothing,46,532.21,Julia,Transfer,24481.660000000003
+315,2024-01-09,Mouse,Electronics,74,330.76,Julia,Transfer,24476.239999999998
+25,2024-10-22,T-shirt,Clothing,69,354.67,Julia,Pix,24472.23
+393,2024-12-29,Pants,Clothing,54,452.8,Larissa,Pix,24451.2
+408,2024-12-24,Pants,Clothing,73,333.82,Lucas,Credit Card,24368.86
+745,2024-07-05,Laptop,Electronics,81,300.55,Joao,Transfer,24344.55
+490,2024-03-02,backpack,Accessories,47,517.84,Carlos,Debit Card,24338.480000000003
+369,2024-04-14,Book,Books,50,485.6,Maria,Transfer,24280.0
+137,2024-12-21,Hat,Clothing,88,275.69,Maria,Credit Card,24260.72
+521,2024-02-19,Pants,Clothing,42,577.42,Pedro,Debit Card,24251.64
+380,2024-08-27,Laptop,Electronics,57,425.31,Larissa,Credit Card,24242.670000000002
+577,2024-12-15,Shoes,Clothing,45,537.45,Mariana,Pix,24185.250000000004
+317,2024-10-16,Pants,Clothing,91,265.61,Lucas,Credit Card,24170.510000000002
+938,2024-05-18,Shoes,Clothing,72,335.6,Maria,Debit Card,24163.2
+131,2024-03-02,Laptop,Electronics,65,371.67,Lucas,Transfer,24158.55
+127,2024-01-11,Shoes,Clothing,96,251.63,Julia,Pix,24156.48
+806,2024-07-26,Mouse,Electronics,90,267.4,Lucas,Pix,24065.999999999996
+196,2024-02-23,Hat,Clothing,64,375.71,Carlos,Paypal,24045.44
+456,2024-05-08,Socks,Clothing,64,375.67,Mariana,Paypal,24042.88
+429,2024-05-22,Socks,Clothing,71,337.71,Julia,Credit Card,23977.41
+209,2024-01-23,Pants,Clothing,45,531.96,Pedro,Transfer,23938.2
+779,2024-06-30,Shoes,Clothing,46,520.14,Mariana,Pix,23926.44
+20,2024-07-10,Mouse,Electronics,66,360.86,Mariana,Transfer,23816.760000000002
+538,2024-04-05,backpack,Accessories,62,384.12,Carlos,Transfer,23815.44
+234,2024-11-27,Headphone,Electronics,85,280.02,Jose,Transfer,23801.699999999997
+278,2024-08-04,Mouse,Electronics,47,505.45,Mariana,Paypal,23756.149999999998
+967,2024-09-18,T-shirt,Clothing,54,438.51,Jose,Credit Card,23679.54
+232,2024-10-06,Headphone,Electronics,80,293.94,Pedro,Pix,23515.2
+164,2024-06-03,Headphone,Electronics,57,411.76,Pedro,Credit Card,23470.32
+973,2024-08-18,Headphone,Electronics,44,531.67,Lucas,Boleto,23393.48
+713,2024-02-02,Shoes,Clothing,48,486.89,Jose,Transfer,23370.72
+612,2024-06-19,Mouse,Electronics,54,432.48,Pedro,Boleto,23353.920000000002
+1000,2024-01-08,Shoes,Clothing,72,324.05,Mariana,Boleto,23331.600000000002
+38,2024-06-16,Mouse,Electronics,75,310.99,Julia,Transfer,23324.25
+563,2024-11-25,Socks,Clothing,65,358.29,Jose,Paypal,23288.850000000002
+417,2024-07-24,T-shirt,Clothing,64,362.5,Maria,Credit Card,23200.0
+410,2024-07-12,Socks,Clothing,100,230.38,Pedro,Paypal,23038.0
+742,2024-09-26,Socks,Clothing,58,396.33,Maria,Paypal,22987.14
+506,2024-09-03,Shoes,Clothing,67,342.48,Jose,Pix,22946.16
+437,2024-09-29,Headphone,Electronics,56,409.52,Jose,Transfer,22933.12
+267,2024-02-22,Headphone,Electronics,70,325.62,Mariana,Credit Card,22793.4
+433,2024-05-06,Laptop,Electronics,44,515.06,Ana,Debit Card,22662.64
+936,2024-08-11,backpack,Accessories,94,239.5,Jose,Credit Card,22513.0
+824,2024-03-28,Pants,Clothing,62,361.18,Carlos,Paypal,22393.16
+949,2024-06-17,T-shirt,Clothing,85,263.25,Jose,Boleto,22376.25
+132,2024-04-15,backpack,Accessories,73,306.43,Mariana,Boleto,22369.39
+400,2024-06-28,backpack,Accessories,87,256.17,Maria,Credit Card,22286.79
+716,2024-09-15,Book,Books,74,300.72,Ana,Paypal,22253.280000000002
+712,2024-11-23,Laptop,Electronics,52,426.69,Julia,Debit Card,22187.88
+995,2024-06-28,Shoes,Clothing,66,334.84,Larissa,Transfer,22099.44
+808,2024-08-26,backpack,Accessories,50,436.26,Carlos,Boleto,21813.0
+188,2024-01-04,Headphone,Electronics,80,272.54,Jose,Paypal,21803.2
+460,2024-02-01,Shoes,Clothing,65,333.9,Pedro,Boleto,21703.5
+640,2024-06-22,Pants,Clothing,95,228.2,Pedro,Paypal,21679.0
+829,2024-03-21,Hat,Clothing,40,541.68,Ana,Debit Card,21667.199999999997
+754,2024-01-23,Pants,Clothing,77,281.02,Larissa,Debit Card,21638.539999999997
+432,2024-01-13,Hat,Clothing,45,479.11,Maria,Credit Card,21559.95
+248,2024-05-12,Pants,Clothing,46,468.21,Julia,Debit Card,21537.66
+499,2024-01-25,Book,Books,55,391.19,Larissa,Credit Card,21515.45
+58,2024-08-16,Book,Books,42,509.45,Pedro,Transfer,21396.899999999998
+261,2024-09-30,Book,Books,46,464.56,Pedro,Transfer,21369.76
+815,2024-04-10,Socks,Clothing,50,426.41,Pedro,Boleto,21320.5
+536,2024-10-04,Headphone,Electronics,65,326.06,Jose,Credit Card,21193.9
+403,2024-09-19,Shoes,Clothing,52,405.22,Larissa,Boleto,21071.440000000002
+659,2024-12-02,Socks,Clothing,40,523.32,Julia,Paypal,20932.800000000003
+756,2024-06-10,Mouse,Electronics,44,475.43,Maria,Debit Card,20918.920000000002
+346,2024-12-18,Book,Books,95,220.13,Ana,Transfer,20912.35
+390,2024-12-06,Shoes,Clothing,61,342.23,Mariana,Pix,20876.030000000002
+226,2024-08-12,Pants,Clothing,38,549.21,Lucas,Paypal,20869.980000000003
+438,2024-06-12,Headphone,Electronics,56,372.04,Mariana,Pix,20834.24
+19,2024-08-23,T-shirt,Clothing,67,310.8,Julia,Paypal,20823.600000000002
+684,2024-04-19,Mouse,Electronics,87,239.23,Lucas,Boleto,20813.01
+333,2024-04-12,backpack,Accessories,65,319.52,Julia,Pix,20768.8
+471,2024-12-04,Hat,Clothing,54,384.16,Mariana,Paypal,20744.640000000003
+466,2024-06-04,T-shirt,Clothing,67,309.58,Lucas,Credit Card,20741.86
+14,2024-12-03,T-shirt,Clothing,45,459.92,Julia,Boleto,20696.4
+631,2024-04-09,Book,Books,93,222.54,Jose,Paypal,20696.219999999998
+777,2024-04-16,Hat,Clothing,86,240.47,Pedro,Transfer,20680.42
+907,2024-11-22,T-shirt,Clothing,100,206.72,Mariana,Pix,20672.0
+381,2024-09-30,Shoes,Clothing,76,271.65,Larissa,Pix,20645.399999999998
+863,2024-12-11,Laptop,Electronics,52,396.69,Lucas,Pix,20627.88
+972,2024-05-13,Socks,Clothing,41,500.63,Jose,Paypal,20525.829999999998
+561,2024-06-26,Book,Books,54,379.95,Carlos,Credit Card,20517.3
+667,2024-12-14,Hat,Clothing,47,434.77,Pedro,Paypal,20434.19
+862,2024-06-06,backpack,Accessories,50,405.67,Joao,Paypal,20283.5
+944,2024-02-27,backpack,Accessories,93,217.87,Maria,Debit Card,20261.91
+158,2024-03-01,Shoes,Clothing,35,578.73,Pedro,Pix,20255.55
+955,2024-01-30,T-shirt,Clothing,76,264.41,Jose,Transfer,20095.160000000003
+718,2024-08-12,Mouse,Electronics,73,274.47,Carlos,Boleto,20036.31
+431,2024-08-04,Laptop,Electronics,43,465.66,Lucas,Boleto,20023.38
+596,2024-09-01,Laptop,Electronics,78,256.13,Julia,Credit Card,19978.14
+555,2024-12-06,Book,Books,66,302.52,Maria,Boleto,19966.32
+290,2024-07-17,Pants,Clothing,65,305.89,Lucas,Transfer,19882.85
+172,2024-05-19,Mouse,Electronics,40,494.58,Julia,Debit Card,19783.2
+794,2024-04-12,Headphone,Electronics,51,387.71,Joao,Boleto,19773.21
+136,2024-02-13,Laptop,Electronics,88,223.3,Maria,Paypal,19650.4
+885,2024-05-14,Shoes,Clothing,34,577.56,Ana,Paypal,19637.039999999997
+134,2024-11-27,Socks,Clothing,62,315.26,Ana,Paypal,19546.12
+822,2024-08-12,Pants,Clothing,36,540.63,Pedro,Boleto,19462.68
+251,2024-01-24,T-shirt,Clothing,37,520.05,Pedro,Paypal,19241.85
+593,2024-04-10,T-shirt,Clothing,78,245.79,Carlos,Transfer,19171.62
+880,2024-08-27,Pants,Clothing,56,342.31,Maria,Debit Card,19169.36
+306,2024-12-04,Hat,Clothing,43,444.16,Lucas,Boleto,19098.88
+522,2024-10-23,Book,Books,64,298.03,Ana,Debit Card,19073.92
+850,2024-04-23,backpack,Accessories,50,381.47,Maria,Debit Card,19073.5
+786,2024-08-23,Hat,Clothing,40,476.61,Joao,Pix,19064.4
+925,2024-05-04,Hat,Clothing,57,334.12,Pedro,Pix,19044.84
+85,2024-11-22,Hat,Clothing,47,404.58,Larissa,Debit Card,19015.26
+404,2024-04-15,Hat,Clothing,97,195.54,Carlos,Debit Card,18967.38
+758,2024-11-24,Pants,Clothing,70,270.61,Mariana,Credit Card,18942.7
+580,2024-06-19,Pants,Clothing,58,324.28,Jose,Pix,18808.239999999998
+653,2024-05-08,T-shirt,Clothing,45,417.45,Mariana,Credit Card,18785.25
+632,2024-03-07,Hat,Clothing,69,271.61,Carlos,Transfer,18741.09
+21,2024-02-18,Headphone,Electronics,61,307.07,Joao,Transfer,18731.27
+922,2024-06-29,Book,Books,55,339.62,Mariana,Debit Card,18679.1
+804,2024-03-07,Book,Books,58,320.92,Joao,Debit Card,18613.36
+110,2024-08-20,backpack,Accessories,35,529.46,Joao,Pix,18531.100000000002
+319,2024-11-26,Hat,Clothing,45,410.57,Julia,Debit Card,18475.65
+96,2024-12-15,backpack,Accessories,60,304.78,Ana,Boleto,18286.8
+215,2024-09-20,Book,Books,35,521.59,Carlos,Transfer,18255.65
+57,2024-11-28,Shoes,Clothing,87,209.61,Ana,Paypal,18236.07
+914,2024-04-14,T-shirt,Clothing,56,323.93,Larissa,Pix,18140.08
+207,2024-11-28,Headphone,Electronics,49,370.01,Julia,Transfer,18130.489999999998
+50,2024-02-17,Socks,Clothing,34,533.06,Lucas,Pix,18124.039999999997
+138,2024-04-22,Headphone,Electronics,54,335.17,Joao,Transfer,18099.18
+323,2024-01-05,Headphone,Electronics,96,187.68,Joao,Debit Card,18017.28
+962,2024-08-15,backpack,Accessories,91,196.64,Lucas,Pix,17894.239999999998
+658,2024-02-28,Laptop,Electronics,43,414.79,Lucas,Paypal,17835.97
+866,2024-10-11,T-shirt,Clothing,66,269.5,Jose,Paypal,17787.0
+356,2024-09-14,Shoes,Clothing,48,370.51,Pedro,Debit Card,17784.48
+464,2024-12-03,Pants,Clothing,48,370.45,Joao,Boleto,17781.6
+300,2024-03-05,Headphone,Electronics,84,210.47,Larissa,Debit Card,17679.48
+257,2024-12-25,backpack,Accessories,51,346.57,Julia,Credit Card,17675.07
+220,2024-01-30,Laptop,Electronics,41,430.57,Mariana,Boleto,17653.37
+330,2024-07-21,Socks,Clothing,38,463.41,Pedro,Debit Card,17609.58
+40,2024-01-04,backpack,Accessories,33,533.25,Maria,Paypal,17597.25
+725,2024-02-06,Socks,Clothing,41,428.03,Joao,Credit Card,17549.23
+476,2024-05-09,Mouse,Electronics,31,564.34,Mariana,Pix,17494.54
+450,2024-03-23,T-shirt,Clothing,37,470.96,Mariana,Paypal,17425.52
+83,2024-06-09,Laptop,Electronics,51,338.71,Joao,Paypal,17274.21
+910,2024-01-04,Book,Books,39,442.8,Maria,Boleto,17269.2
+812,2024-11-25,Laptop,Electronics,55,312.03,Joao,Debit Card,17161.649999999998
+961,2024-02-26,T-shirt,Clothing,78,219.4,Ana,Pix,17113.2
+916,2024-11-08,Socks,Clothing,88,194.01,Pedro,Transfer,17072.879999999997
+442,2024-03-27,Mouse,Electronics,86,198.1,Carlos,Credit Card,17036.6
+200,2024-11-15,Hat,Clothing,35,486.42,Lucas,Debit Card,17024.7
+662,2024-01-27,Headphone,Electronics,67,253.57,Carlos,Transfer,16989.19
+980,2024-01-01,Headphone,Electronics,52,326.57,Julia,Boleto,16981.64
+372,2024-09-13,Hat,Clothing,73,232.33,Julia,Boleto,16960.09
+43,2024-04-23,Headphone,Electronics,49,345.29,Pedro,Debit Card,16919.210000000003
+909,2024-03-08,Pants,Clothing,36,468.12,Joao,Transfer,16852.32
+528,2024-08-07,Book,Books,43,391.11,Ana,Debit Card,16817.73
+906,2024-02-13,Pants,Clothing,43,386.56,Ana,Pix,16622.08
+51,2024-01-11,Book,Books,52,318.14,Joao,Boleto,16543.28
+35,2024-05-24,Book,Books,82,201.13,Larissa,Paypal,16492.66
+702,2024-08-29,Socks,Clothing,51,322.8,Carlos,Debit Card,16462.8
+451,2024-09-27,Laptop,Electronics,29,566.57,Lucas,Transfer,16430.530000000002
+848,2024-10-20,Mouse,Electronics,55,298.2,Julia,Credit Card,16401.0
+820,2024-03-26,backpack,Accessories,95,172.31,Carlos,Paypal,16369.45
+16,2024-03-31,Laptop,Electronics,30,544.56,Julia,Transfer,16336.8
+819,2024-02-12,Socks,Clothing,87,187.51,Pedro,Paypal,16313.369999999999
+731,2024-08-04,Mouse,Electronics,34,479.45,Ana,Pix,16301.3
+338,2024-05-23,Headphone,Electronics,86,189.05,Larissa,Transfer,16258.300000000001
+591,2024-10-26,Headphone,Electronics,31,523.88,Mariana,Credit Card,16240.28
+705,2024-05-19,Laptop,Electronics,80,202.62,Lucas,Pix,16209.6
+918,2024-09-09,backpack,Accessories,68,238.32,Mariana,Transfer,16205.76
+915,2024-08-10,Book,Books,52,311.14,Mariana,Debit Card,16179.279999999999
+960,2024-05-18,Hat,Clothing,65,248.65,Julia,Credit Card,16162.25
+714,2024-01-31,Mouse,Electronics,33,488.85,Julia,Boleto,16132.050000000001
+271,2024-05-27,T-shirt,Clothing,47,342.99,Carlos,Debit Card,16120.53
+789,2024-12-28,Shoes,Clothing,84,190.43,Lucas,Paypal,15996.12
+501,2024-01-18,Mouse,Electronics,95,168.01,Ana,Credit Card,15960.949999999999
+475,2024-01-08,Pants,Clothing,49,325.54,Lucas,Credit Card,15951.460000000001
+681,2024-10-06,Hat,Clothing,40,398.03,Carlos,Boleto,15921.199999999999
+644,2024-01-26,Pants,Clothing,41,387.24,Mariana,Paypal,15876.84
+81,2024-06-26,Laptop,Electronics,93,170.67,Pedro,Pix,15872.31
+142,2024-10-24,Laptop,Electronics,97,163.27,Maria,Transfer,15837.19
+120,2024-09-01,Book,Books,56,282.33,Mariana,Pix,15810.48
+803,2024-05-01,Shoes,Clothing,52,303.95,Carlos,Credit Card,15805.4
+688,2024-09-25,Book,Books,66,238.54,Maria,Pix,15743.64
+204,2024-03-24,Book,Books,39,402.09,Lucas,Boleto,15681.509999999998
+150,2024-01-30,backpack,Accessories,76,206.14,Mariana,Credit Card,15666.64
+421,2024-05-14,Headphone,Electronics,69,226.21,Pedro,Credit Card,15608.49
+680,2024-04-29,Headphone,Electronics,38,408.72,Larissa,Debit Card,15531.36
+167,2024-07-29,Book,Books,83,186.77,Larissa,Pix,15501.910000000002
+645,2024-01-28,Pants,Clothing,45,343.66,Mariana,Transfer,15464.7
+985,2024-05-15,Laptop,Electronics,60,256.14,Larissa,Paypal,15368.4
+844,2024-07-02,Socks,Clothing,91,168.09,Carlos,Debit Card,15296.19
+586,2024-11-04,Pants,Clothing,58,263.62,Jose,Credit Card,15289.960000000001
+549,2024-09-19,Pants,Clothing,28,545.57,Maria,Transfer,15275.960000000001
+883,2024-02-10,Mouse,Electronics,59,258.86,Carlos,Boleto,15272.740000000002
+214,2024-12-25,Book,Books,33,460.54,Julia,Pix,15197.820000000002
+435,2024-05-07,Hat,Clothing,31,489.84,Julia,Boleto,15185.039999999999
+184,2024-06-20,Laptop,Electronics,60,251.93,Pedro,Paypal,15115.800000000001
+532,2024-09-30,backpack,Accessories,84,179.64,Jose,Debit Card,15089.759999999998
+771,2024-06-22,Laptop,Electronics,47,318.99,Joao,Debit Card,14992.53
+619,2024-09-16,Pants,Clothing,39,384.17,Larissa,Pix,14982.630000000001
+370,2024-05-05,Headphone,Electronics,78,191.86,Maria,Credit Card,14965.080000000002
+366,2024-03-19,Headphone,Electronics,96,155.76,Larissa,Paypal,14952.96
+852,2024-05-02,Mouse,Electronics,78,191.37,Julia,Credit Card,14926.86
+298,2024-04-10,Socks,Clothing,84,177.55,Mariana,Pix,14914.2
+329,2024-04-07,Headphone,Electronics,46,322.68,Lucas,Debit Card,14843.28
+701,2024-05-12,T-shirt,Clothing,79,187.73,Jose,Paypal,14830.67
+322,2024-03-22,Shoes,Clothing,44,336.2,Ana,Boleto,14792.8
+968,2024-03-04,Laptop,Electronics,33,446.34,Larissa,Transfer,14729.22
+86,2024-01-13,Book,Books,70,210.29,Mariana,Pix,14720.3
+953,2024-04-23,T-shirt,Clothing,33,442.72,Carlos,Boleto,14609.76
+280,2024-02-16,Socks,Clothing,40,364.59,Pedro,Pix,14583.599999999999
+864,2024-06-04,Shoes,Clothing,37,392.5,Ana,Debit Card,14522.5
+480,2024-04-17,Socks,Clothing,25,574.88,Lucas,Debit Card,14372.0
+401,2024-02-28,Socks,Clothing,33,433.58,Lucas,Paypal,14308.14
+362,2024-07-21,T-shirt,Clothing,42,338.77,Joao,Credit Card,14228.34
+766,2024-09-11,Laptop,Electronics,32,442.18,Maria,Pix,14149.76
+560,2024-01-29,T-shirt,Clothing,30,470.01,Jose,Paypal,14100.3
+585,2024-12-01,Socks,Clothing,77,182.97,Julia,Debit Card,14088.69
+693,2024-09-29,Book,Books,77,182.74,Carlos,Pix,14070.980000000001
+517,2024-07-29,Laptop,Electronics,97,144.88,Carlos,Pix,14053.359999999999
+82,2024-12-15,Laptop,Electronics,64,218.98,Larissa,Pix,14014.72
+590,2024-11-23,Book,Books,41,341.18,Maria,Pix,13988.380000000001
+383,2024-09-05,Book,Books,28,496.97,Ana,Paypal,13915.16
+405,2024-09-18,Socks,Clothing,24,579.27,Maria,Pix,13902.48
+818,2024-04-11,backpack,Accessories,83,167.25,Joao,Boleto,13881.75
+149,2024-09-01,Pants,Clothing,25,553.79,Julia,Paypal,13844.75
+283,2024-10-16,Headphone,Electronics,62,222.06,Maria,Boleto,13767.72
+956,2024-05-25,T-shirt,Clothing,91,150.59,Joao,Transfer,13703.69
+547,2024-06-27,backpack,Accessories,60,227.68,Lucas,Debit Card,13660.800000000001
+89,2024-07-18,T-shirt,Clothing,41,331.13,Joao,Boleto,13576.33
+52,2024-11-10,Headphone,Electronics,90,149.98,Carlos,Paypal,13498.199999999999
+933,2024-04-05,backpack,Accessories,59,228.63,Mariana,Boleto,13489.17
+856,2024-10-16,T-shirt,Clothing,49,275.19,Julia,Boleto,13484.31
+53,2024-03-30,Book,Books,29,461.1,Pedro,Pix,13371.900000000001
+571,2024-01-26,Socks,Clothing,30,444.89,Jose,Credit Card,13346.699999999999
+677,2024-04-21,Shoes,Clothing,35,380.84,Larissa,Boleto,13329.4
+996,2024-12-27,Book,Books,66,201.94,Julia,Credit Card,13328.039999999999
+459,2024-05-22,Shoes,Clothing,48,276.61,Julia,Transfer,13277.28
+544,2024-04-09,Hat,Clothing,45,294.29,Julia,Transfer,13243.050000000001
+913,2024-03-21,T-shirt,Clothing,28,472.64,Maria,Debit Card,13233.92
+979,2024-05-06,Shoes,Clothing,31,425.59,Pedro,Debit Card,13193.289999999999
+884,2024-07-31,Laptop,Electronics,25,526.96,Jose,Pix,13174.0
+931,2024-03-21,Mouse,Electronics,67,195.38,Joao,Paypal,13090.46
+572,2024-12-23,T-shirt,Clothing,43,302.62,Pedro,Paypal,13012.66
+568,2024-05-21,backpack,Accessories,37,351.21,Larissa,Debit Card,12994.769999999999
+477,2024-06-10,Mouse,Electronics,58,223.34,Maria,Paypal,12953.72
+687,2024-07-10,Socks,Clothing,34,380.75,Pedro,Credit Card,12945.5
+661,2024-01-17,Socks,Clothing,23,561.45,Maria,Credit Card,12913.35
+27,2024-07-06,Pants,Clothing,29,443.77,Jose,Pix,12869.33
+639,2024-01-30,Socks,Clothing,23,556.48,Jose,Credit Card,12799.04
+843,2024-09-24,backpack,Accessories,22,577.11,Maria,Paypal,12696.42
+341,2024-07-17,Shoes,Clothing,61,206.98,Mariana,Transfer,12625.779999999999
+398,2024-07-31,T-shirt,Clothing,29,431.65,Julia,Paypal,12517.849999999999
+920,2024-08-27,Pants,Clothing,29,429.5,Maria,Credit Card,12455.5
+939,2024-06-28,Hat,Clothing,71,175.2,Jose,Transfer,12439.199999999999
+894,2024-05-04,Pants,Clothing,66,187.92,Ana,Pix,12402.72
+899,2024-09-04,Socks,Clothing,44,280.86,Mariana,Transfer,12357.84
+114,2024-04-04,Headphone,Electronics,91,135.8,Larissa,Debit Card,12357.800000000001
+122,2024-05-24,Headphone,Electronics,54,228.56,Jose,Credit Card,12342.24
+211,2024-04-01,Headphone,Electronics,56,220.17,Jose,Pix,12329.519999999999
+208,2024-04-13,Mouse,Electronics,24,512.43,Jose,Debit Card,12298.32
+117,2024-06-03,T-shirt,Clothing,35,350.74,Julia,Paypal,12275.9
+524,2024-06-10,Shoes,Clothing,32,382.5,Mariana,Transfer,12240.0
+706,2024-09-06,Pants,Clothing,24,506.84,Larissa,Transfer,12164.16
+782,2024-10-22,Socks,Clothing,24,505.82,Carlos,Pix,12139.68
+634,2024-04-29,Hat,Clothing,27,448.24,Ana,Pix,12102.48
+256,2024-06-07,Headphone,Electronics,27,448.0,Joao,Credit Card,12096.0
+975,2024-06-11,Shoes,Clothing,92,130.87,Maria,Boleto,12040.04
+139,2024-03-06,Laptop,Electronics,57,210.64,Jose,Credit Card,12006.48
+531,2024-02-29,T-shirt,Clothing,45,265.97,Jose,Paypal,11968.650000000001
+507,2024-12-26,backpack,Accessories,31,384.12,Ana,Transfer,11907.72
+259,2024-09-04,Headphone,Electronics,44,269.77,Jose,Transfer,11869.88
+917,2024-08-07,Shoes,Clothing,72,163.85,Maria,Transfer,11797.199999999999
+482,2024-10-07,T-shirt,Clothing,89,132.55,Pedro,Pix,11796.95
+419,2024-07-24,backpack,Accessories,65,180.78,Julia,Boleto,11750.7
+97,2024-04-18,T-shirt,Clothing,75,154.99,Carlos,Pix,11624.25
+414,2024-06-20,Headphone,Electronics,21,550.81,Larissa,Boleto,11567.009999999998
+626,2024-08-01,Shoes,Clothing,63,183.25,Carlos,Boleto,11544.75
+855,2024-06-01,Mouse,Electronics,24,480.78,Ana,Paypal,11538.72
+325,2024-11-28,Book,Books,64,179.77,Ana,Paypal,11505.28
+103,2024-11-09,Socks,Clothing,64,179.66,Jose,Debit Card,11498.24
+660,2024-05-04,Shoes,Clothing,85,135.01,Pedro,Paypal,11475.849999999999
+981,2024-05-26,Mouse,Electronics,71,161.45,Jose,Boleto,11462.949999999999
+603,2024-12-13,Pants,Clothing,69,164.17,Lucas,Transfer,11327.73
+897,2024-02-11,Shoes,Clothing,53,213.26,Carlos,Pix,11302.779999999999
+587,2024-03-24,Hat,Clothing,22,513.36,Pedro,Pix,11293.92
+993,2024-06-03,backpack,Accessories,21,533.54,Joao,Credit Card,11204.34
+237,2024-08-18,Shoes,Clothing,44,254.21,Lucas,Debit Card,11185.24
+941,2024-05-05,Book,Books,48,233.0,Ana,Pix,11184.0
+834,2024-08-03,Mouse,Electronics,34,328.31,Maria,Boleto,11162.54
+500,2024-02-08,Headphone,Electronics,60,185.59,Joao,Paypal,11135.4
+446,2024-10-14,Mouse,Electronics,26,427.82,Ana,Paypal,11123.32
+792,2024-06-25,Headphone,Electronics,27,410.25,Mariana,Transfer,11076.75
+965,2024-04-21,backpack,Accessories,29,381.53,Carlos,Credit Card,11064.369999999999
+105,2024-07-11,Shoes,Clothing,37,295.97,Julia,Transfer,10950.890000000001
+468,2024-02-04,Book,Books,20,544.39,Lucas,Credit Card,10887.8
+66,2024-05-19,Pants,Clothing,85,127.71,Larissa,Transfer,10855.35
+559,2024-10-22,Socks,Clothing,39,277.01,Joao,Boleto,10803.39
+698,2024-08-19,Pants,Clothing,33,327.28,Maria,Paypal,10800.24
+160,2024-11-04,Shoes,Clothing,46,234.49,Larissa,Paypal,10786.54
+434,2024-06-09,Headphone,Electronics,54,199.75,Joao,Credit Card,10786.5
+154,2024-06-27,Shoes,Clothing,94,114.67,Jose,Boleto,10778.98
+637,2024-08-07,Pants,Clothing,43,250.2,Maria,Transfer,10758.6
+957,2024-04-26,backpack,Accessories,45,237.63,Carlos,Credit Card,10693.35
+339,2024-05-20,Pants,Clothing,47,226.65,Julia,Boleto,10652.550000000001
+148,2024-02-14,Headphone,Electronics,35,304.24,Lucas,Debit Card,10648.4
+124,2024-12-21,T-shirt,Clothing,80,132.97,Carlos,Pix,10637.6
+55,2024-06-30,T-shirt,Clothing,48,221.09,Jose,Boleto,10612.32
+502,2024-02-22,Mouse,Electronics,67,158.37,Ana,Debit Card,10610.79
+927,2024-11-26,Hat,Clothing,87,121.01,Jose,Pix,10527.87
+553,2024-03-01,Mouse,Electronics,19,550.03,Joao,Credit Card,10450.57
+518,2024-02-08,Shoes,Clothing,97,107.48,Maria,Boleto,10425.56
+670,2024-01-13,T-shirt,Clothing,78,133.47,Pedro,Pix,10410.66
+836,2024-03-01,Hat,Clothing,43,241.82,Ana,Credit Card,10398.26
+589,2024-09-25,Pants,Clothing,39,264.47,Julia,Debit Card,10314.330000000002
+445,2024-03-27,Headphone,Electronics,60,171.76,Pedro,Paypal,10305.599999999999
+835,2024-11-05,Laptop,Electronics,40,257.13,Jose,Pix,10285.2
+212,2024-03-23,Headphone,Electronics,71,144.07,Julia,Paypal,10228.97
+239,2024-10-24,Laptop,Electronics,57,178.69,Pedro,Boleto,10185.33
+470,2024-01-28,Shoes,Clothing,86,118.05,Mariana,Paypal,10152.3
+397,2024-11-15,backpack,Accessories,37,274.25,Mariana,Debit Card,10147.25
+181,2024-04-05,T-shirt,Clothing,92,110.27,Carlos,Boleto,10144.84
+161,2024-03-16,Shoes,Clothing,26,389.81,Julia,Credit Card,10135.06
+334,2024-10-10,Hat,Clothing,61,165.95,Julia,Paypal,10122.949999999999
+143,2024-03-05,Mouse,Electronics,22,459.87,Mariana,Paypal,10117.14
+512,2024-11-06,Socks,Clothing,29,348.46,Jose,Boleto,10105.34
+174,2024-05-11,Socks,Clothing,99,102.02,Maria,Credit Card,10099.98
+30,2024-03-24,Headphone,Electronics,36,280.46,Pedro,Transfer,10096.56
+115,2024-11-25,Laptop,Electronics,78,129.3,Lucas,Credit Card,10085.400000000001
+426,2024-08-27,Socks,Clothing,19,530.75,Mariana,Paypal,10084.25
+573,2024-04-12,Laptop,Electronics,35,288.03,Jose,Boleto,10081.05
+796,2024-03-08,T-shirt,Clothing,18,557.99,Joao,Paypal,10043.82
+860,2024-05-12,Laptop,Electronics,62,161.72,Ana,Pix,10026.64
+895,2024-10-16,Pants,Clothing,83,120.51,Maria,Credit Card,10002.33
+36,2024-07-24,Socks,Clothing,92,108.54,Carlos,Paypal,9985.68
+665,2024-11-22,Headphone,Electronics,91,108.59,Pedro,Debit Card,9881.69
+672,2024-04-19,backpack,Accessories,50,197.62,Larissa,Credit Card,9881.0
+328,2024-11-25,Book,Books,65,151.86,Carlos,Paypal,9870.900000000001
+691,2024-11-27,Mouse,Electronics,18,547.96,Carlos,Transfer,9863.28
+340,2024-10-14,Headphone,Electronics,26,374.39,Lucas,Debit Card,9734.14
+388,2024-03-04,Headphone,Electronics,63,154.29,Carlos,Boleto,9720.269999999999
+717,2024-04-03,Mouse,Electronics,18,537.9,Carlos,Transfer,9682.199999999999
+357,2024-02-09,Shoes,Clothing,70,138.24,Larissa,Paypal,9676.800000000001
+877,2024-08-10,Hat,Clothing,73,132.16,Lucas,Paypal,9647.68
+901,2024-07-13,Laptop,Electronics,46,208.52,Julia,Paypal,9591.92
+525,2024-03-02,Hat,Clothing,51,187.7,Carlos,Transfer,9572.699999999999
+921,2024-09-24,Shoes,Clothing,37,258.34,Carlos,Debit Card,9558.58
+496,2024-03-25,Shoes,Clothing,31,308.28,Ana,Pix,9556.679999999998
+231,2024-10-07,Shoes,Clothing,18,530.37,Pedro,Credit Card,9546.66
+669,2024-03-12,Book,Books,51,186.7,Maria,Paypal,9521.699999999999
+565,2024-01-22,Hat,Clothing,30,314.2,Julia,Paypal,9426.0
+636,2024-01-10,Pants,Clothing,39,241.67,Lucas,Paypal,9425.13
+607,2024-05-06,Pants,Clothing,21,446.21,Maria,Paypal,9370.41
+358,2024-07-05,Shoes,Clothing,36,259.75,Jose,Pix,9351.0
+12,2024-06-16,Mouse,Electronics,23,405.61,Lucas,Pix,9329.03
+63,2024-01-29,T-shirt,Clothing,30,310.41,Carlos,Transfer,9312.300000000001
+368,2024-07-23,Pants,Clothing,20,465.15,Larissa,Transfer,9303.0
+566,2024-07-02,Laptop,Electronics,23,403.97,Ana,Debit Card,9291.310000000001
+932,2024-01-31,Laptop,Electronics,38,244.16,Carlos,Debit Card,9278.08
+805,2024-02-28,backpack,Accessories,51,181.09,Joao,Boleto,9235.59
+183,2024-10-18,Book,Books,23,400.02,Jose,Paypal,9200.46
+229,2024-04-16,Shoes,Clothing,40,229.47,Mariana,Debit Card,9178.8
+378,2024-02-23,Headphone,Electronics,74,123.75,Carlos,Paypal,9157.5
+746,2024-07-07,backpack,Accessories,74,123.62,Maria,Paypal,9147.880000000001
+574,2024-05-10,Laptop,Electronics,37,246.72,Ana,Boleto,9128.64
+412,2024-08-15,Socks,Clothing,25,365.05,Lucas,Credit Card,9126.25
+288,2024-12-08,Headphone,Electronics,49,184.97,Mariana,Pix,9063.53
+44,2024-04-10,Pants,Clothing,90,99.95,Lucas,Boleto,8995.5
+986,2024-07-12,Socks,Clothing,76,118.36,Pedro,Boleto,8995.36
+5,2024-12-09,Mouse,Electronics,38,235.98,Pedro,Paypal,8967.24
+126,2024-01-04,Pants,Clothing,32,280.13,Carlos,Debit Card,8964.16
+292,2024-01-27,Mouse,Electronics,91,98.31,Carlos,Pix,8946.210000000001
+411,2024-01-17,Hat,Clothing,70,127.76,Julia,Credit Card,8943.2
+807,2024-09-15,Laptop,Electronics,51,173.57,Ana,Debit Card,8852.07
+303,2024-10-21,Pants,Clothing,38,232.39,Pedro,Paypal,8830.82
+307,2024-07-19,T-shirt,Clothing,16,550.22,Ana,Paypal,8803.52
+262,2024-03-14,Mouse,Electronics,100,87.79,Jose,Boleto,8779.0
+94,2024-03-09,Shoes,Clothing,34,256.61,Larissa,Paypal,8724.74
+332,2024-03-27,Mouse,Electronics,25,348.33,Carlos,Credit Card,8708.25
+946,2024-01-07,Headphone,Electronics,38,228.83,Larissa,Transfer,8695.54
+483,2024-04-17,Shoes,Clothing,28,309.07,Maria,Credit Card,8653.96
+627,2024-11-27,Socks,Clothing,34,253.78,Mariana,Boleto,8628.52
+846,2024-02-27,Shoes,Clothing,15,573.45,Mariana,Paypal,8601.75
+719,2024-09-21,T-shirt,Clothing,21,408.55,Mariana,Boleto,8579.550000000001
+153,2024-04-21,Book,Books,18,471.22,Pedro,Credit Card,8481.960000000001
+514,2024-05-05,Shoes,Clothing,82,103.31,Pedro,Pix,8471.42
+210,2024-03-12,Hat,Clothing,99,84.31,Julia,Transfer,8346.69
+458,2024-02-20,Pants,Clothing,36,230.81,Ana,Pix,8309.16
+191,2024-09-28,backpack,Accessories,78,106.29,Joao,Pix,8290.62
+515,2024-09-27,Headphone,Electronics,55,150.22,Mariana,Debit Card,8262.1
+406,2024-01-31,Mouse,Electronics,34,242.33,Mariana,Transfer,8239.220000000001
+230,2024-08-17,Shoes,Clothing,27,304.81,Larissa,Credit Card,8229.87
+365,2024-01-04,Hat,Clothing,21,391.78,Carlos,Debit Card,8227.38
+564,2024-06-10,Pants,Clothing,31,265.36,Julia,Paypal,8226.16
+699,2024-09-13,Socks,Clothing,32,256.14,Carlos,Boleto,8196.48
+784,2024-02-08,Mouse,Electronics,74,110.73,Jose,Boleto,8194.02
+361,2024-06-11,Mouse,Electronics,43,189.88,Carlos,Boleto,8164.84
+304,2024-08-25,Headphone,Electronics,25,323.3,Ana,Boleto,8082.5
+697,2024-03-27,Shoes,Clothing,17,472.37,Joao,Debit Card,8030.29
+830,2024-06-14,backpack,Accessories,31,257.3,Pedro,Paypal,7976.3
+313,2024-02-19,backpack,Accessories,20,395.07,Julia,Transfer,7901.4
+467,2024-11-24,Book,Books,85,92.92,Pedro,Debit Card,7898.2
+453,2024-09-10,Book,Books,20,394.02,Carlos,Transfer,7880.4
+599,2024-06-15,Laptop,Electronics,69,113.54,Julia,Transfer,7834.26
+924,2024-01-30,Laptop,Electronics,36,217.28,Pedro,Paypal,7822.08
+386,2024-06-03,Laptop,Electronics,89,87.82,Pedro,Boleto,7815.98
+823,2024-10-19,Book,Books,15,520.31,Lucas,Debit Card,7804.65
+320,2024-04-23,Shoes,Clothing,31,251.5,Maria,Paypal,7796.5
+6,2024-11-13,Mouse,Electronics,22,352.34,Maria,Debit Card,7751.48
+620,2024-03-12,Socks,Clothing,26,296.31,Lucas,Paypal,7704.06
+540,2024-07-30,Socks,Clothing,15,512.79,Lucas,Pix,7691.849999999999
+88,2024-05-24,Headphone,Electronics,34,225.39,Maria,Boleto,7663.259999999999
+831,2024-07-07,Pants,Clothing,46,166.53,Lucas,Debit Card,7660.38
+873,2024-02-21,Headphone,Electronics,23,332.58,Lucas,Debit Card,7649.339999999999
+773,2024-10-30,Headphone,Electronics,37,206.2,Pedro,Boleto,7629.4
+611,2024-03-15,Mouse,Electronics,60,127.12,Julia,Paypal,7627.200000000001
+837,2024-12-17,Socks,Clothing,89,85.55,Mariana,Credit Card,7613.95
+534,2024-11-12,Book,Books,75,101.36,Jose,Boleto,7602.0
+584,2024-07-02,Laptop,Electronics,17,446.96,Ana,Boleto,7598.32
+976,2024-03-16,Mouse,Electronics,51,148.98,Maria,Transfer,7597.98
+236,2024-11-01,Laptop,Electronics,29,261.72,Pedro,Transfer,7589.880000000001
+193,2024-10-03,Socks,Clothing,42,180.64,Maria,Pix,7586.879999999999
+376,2024-12-22,Book,Books,50,151.69,Pedro,Paypal,7584.5
+537,2024-05-23,Pants,Clothing,16,468.54,Maria,Credit Card,7496.64
+337,2024-08-13,Laptop,Electronics,33,225.32,Julia,Transfer,7435.5599999999995
+84,2024-04-02,Shoes,Clothing,25,296.84,Julia,Paypal,7420.999999999999
+444,2024-08-03,Headphone,Electronics,47,157.81,Mariana,Boleto,7417.07
+722,2024-05-19,backpack,Accessories,72,102.6,Julia,Pix,7387.2
+474,2024-05-16,Hat,Clothing,48,150.85,Mariana,Boleto,7240.799999999999
+989,2024-11-11,Headphone,Electronics,64,113.08,Maria,Pix,7237.12
+613,2024-03-09,backpack,Accessories,31,233.33,Joao,Credit Card,7233.2300000000005
+91,2024-02-07,Pants,Clothing,35,206.53,Ana,Transfer,7228.55
+321,2024-09-14,Headphone,Electronics,44,164.17,Joao,Transfer,7223.48
+413,2024-08-06,Headphone,Electronics,27,266.79,Carlos,Credit Card,7203.330000000001
+799,2024-06-25,Mouse,Electronics,16,444.97,Pedro,Boleto,7119.52
+348,2024-11-28,Book,Books,33,215.28,Lucas,Transfer,7104.24
+73,2024-02-19,backpack,Accessories,14,503.86,Joao,Paypal,7054.04
+294,2024-09-15,Pants,Clothing,15,468.07,Larissa,Credit Card,7021.05
+749,2024-02-02,Mouse,Electronics,17,408.66,Ana,Pix,6947.22
+767,2024-11-08,Book,Books,22,315.54,Carlos,Debit Card,6941.88
+940,2024-06-19,Hat,Clothing,12,578.17,Lucas,Paypal,6938.039999999999
+974,2024-08-29,backpack,Accessories,17,405.46,Larissa,Boleto,6892.82
+152,2024-04-19,Pants,Clothing,35,194.45,Maria,Boleto,6805.75
+7,2024-06-01,Pants,Clothing,82,82.53,Joao,Transfer,6767.46
+527,2024-10-31,T-shirt,Clothing,63,106.74,Lucas,Transfer,6724.62
+498,2024-12-13,Mouse,Electronics,88,76.08,Jose,Paypal,6695.04
+551,2024-03-12,Headphone,Electronics,87,76.81,Lucas,Credit Card,6682.47
+943,2024-10-08,Mouse,Electronics,20,333.79,Julia,Paypal,6675.8
+484,2024-01-31,Shoes,Clothing,88,75.17,Pedro,Credit Card,6614.96
+930,2024-08-05,Laptop,Electronics,18,366.23,Maria,Paypal,6592.14
+664,2024-09-01,Hat,Clothing,16,411.05,Joao,Debit Card,6576.8
+621,2024-11-28,Book,Books,68,96.25,Ana,Credit Card,6545.0
+539,2024-03-14,Shoes,Clothing,13,502.98,Maria,Credit Card,6538.74
+352,2024-02-05,Socks,Clothing,70,93.18,Julia,Credit Card,6522.6
+575,2024-12-18,Shoes,Clothing,81,80.03,Ana,Pix,6482.43
+34,2024-12-14,Headphone,Electronics,25,257.46,Maria,Pix,6436.499999999999
+624,2024-07-12,Mouse,Electronics,41,155.68,Larissa,Boleto,6382.88
+735,2024-06-26,backpack,Accessories,11,575.81,Pedro,Transfer,6333.91
+13,2024-12-18,Headphone,Electronics,70,90.37,Lucas,Paypal,6325.900000000001
+723,2024-07-27,Shoes,Clothing,27,234.12,Lucas,Debit Card,6321.24
+301,2024-08-16,Laptop,Electronics,36,175.46,Mariana,Transfer,6316.56
+736,2024-11-15,Headphone,Electronics,18,350.15,Joao,Paypal,6302.7
+430,2024-03-10,Mouse,Electronics,11,567.98,Ana,Credit Card,6247.780000000001
+395,2024-07-01,Hat,Clothing,11,567.4,Ana,Pix,6241.4
+75,2024-01-19,T-shirt,Clothing,23,271.21,Ana,Transfer,6237.83
+173,2024-12-20,Socks,Clothing,12,519.49,Larissa,Pix,6233.88
+966,2024-05-31,Hat,Clothing,15,415.16,Joao,Boleto,6227.400000000001
+847,2024-09-16,Shoes,Clothing,11,565.51,Ana,Credit Card,6220.61
+112,2024-02-27,Hat,Clothing,16,387.71,Larissa,Boleto,6203.36
+252,2024-02-02,Laptop,Electronics,12,505.8,Larissa,Pix,6069.6
+59,2024-11-14,Pants,Clothing,55,109.84,Lucas,Paypal,6041.2
+364,2024-09-30,Mouse,Electronics,21,287.65,Lucas,Transfer,6040.65
+192,2024-11-13,Laptop,Electronics,18,335.11,Julia,Boleto,6031.9800000000005
+302,2024-11-18,Shoes,Clothing,92,65.55,Ana,Pix,6030.599999999999
+813,2024-04-08,Headphone,Electronics,17,354.39,Mariana,Paypal,6024.63
+763,2024-08-27,backpack,Accessories,98,60.78,Pedro,Transfer,5956.4400000000005
+130,2024-05-10,Shoes,Clothing,48,123.05,Ana,Paypal,5906.4
+741,2024-07-21,Hat,Clothing,20,294.86,Lucas,Boleto,5897.200000000001
+17,2024-07-07,Mouse,Electronics,71,83.02,Ana,Boleto,5894.42
+594,2024-10-23,Hat,Clothing,32,183.8,Ana,Credit Card,5881.6
+772,2024-07-26,T-shirt,Clothing,32,183.61,Carlos,Pix,5875.52
+264,2024-02-12,Laptop,Electronics,46,127.56,Mariana,Debit Card,5867.76
+497,2024-03-15,Socks,Clothing,50,115.98,Julia,Boleto,5799.0
+977,2024-06-03,Book,Books,63,91.84,Maria,Boleto,5785.92
+224,2024-06-22,Mouse,Electronics,39,147.43,Jose,Paypal,5749.77
+29,2024-01-07,Shoes,Clothing,20,286.83,Mariana,Boleto,5736.599999999999
+233,2024-08-22,Headphone,Electronics,59,97.03,Maria,Paypal,5724.77
+708,2024-07-25,Hat,Clothing,29,196.98,Lucas,Transfer,5712.42
+140,2024-03-04,Laptop,Electronics,71,79.9,Joao,Boleto,5672.900000000001
+265,2024-06-21,Mouse,Electronics,25,226.2,Joao,Boleto,5655.0
+95,2024-10-29,Mouse,Electronics,47,120.27,Larissa,Debit Card,5652.69
+168,2024-10-27,Headphone,Electronics,53,105.14,Lucas,Boleto,5572.42
+795,2024-01-15,Pants,Clothing,88,62.95,Pedro,Boleto,5539.6
+692,2024-03-23,Laptop,Electronics,11,501.32,Lucas,Paypal,5514.5199999999995
+840,2024-07-13,Headphone,Electronics,13,423.65,Ana,Boleto,5507.45
+546,2024-08-02,Socks,Clothing,17,320.29,Larissa,Credit Card,5444.93
+418,2024-03-16,Socks,Clothing,17,314.53,Julia,Boleto,5347.009999999999
+144,2024-04-12,Laptop,Electronics,86,61.0,Lucas,Pix,5246.0
+990,2024-04-03,Headphone,Electronics,17,307.72,Larissa,Pix,5231.240000000001
+316,2024-03-17,Laptop,Electronics,96,54.49,Maria,Debit Card,5231.04
+724,2024-09-13,Shoes,Clothing,30,173.8,Jose,Pix,5214.0
+650,2024-10-02,Mouse,Electronics,11,469.92,Larissa,Credit Card,5169.12
+504,2024-08-16,Book,Books,31,164.25,Joao,Paypal,5091.75
+715,2024-03-29,T-shirt,Clothing,60,84.23,Lucas,Paypal,5053.8
+679,2024-04-23,Pants,Clothing,18,280.12,Mariana,Debit Card,5042.16
+206,2024-08-02,Socks,Clothing,68,74.11,Joao,Paypal,5039.48
+569,2024-11-11,backpack,Accessories,25,201.35,Pedro,Boleto,5033.75
+841,2024-12-02,Shoes,Clothing,41,122.53,Joao,Boleto,5023.7300000000005
+425,2024-05-16,Shoes,Clothing,100,50.04,Jose,Transfer,5004.0
+576,2024-10-24,Laptop,Electronics,68,73.55,Maria,Pix,5001.4
+935,2024-12-08,Laptop,Electronics,40,124.58,Pedro,Transfer,4983.2
+982,2024-10-06,Laptop,Electronics,11,449.38,Jose,Boleto,4943.18
+898,2024-07-18,Mouse,Electronics,61,80.08,Mariana,Debit Card,4884.88
+602,2024-05-27,Shoes,Clothing,26,185.72,Joao,Credit Card,4828.72
+707,2024-10-03,backpack,Accessories,17,283.18,Mariana,Debit Card,4814.06
+487,2024-06-11,Hat,Clothing,16,298.68,Maria,Credit Card,4778.88
+641,2024-02-04,Shoes,Clothing,42,113.74,Mariana,Credit Card,4777.08
+201,2024-07-20,T-shirt,Clothing,38,125.67,Jose,Paypal,4775.46
+222,2024-01-05,Pants,Clothing,11,430.78,Lucas,Debit Card,4738.58
+874,2024-05-02,Book,Books,54,87.63,Jose,Boleto,4732.0199999999995
+440,2024-04-09,T-shirt,Clothing,28,168.59,Jose,Boleto,4720.52
+597,2024-11-11,T-shirt,Clothing,16,293.52,Joao,Boleto,4696.32
+275,2024-02-25,backpack,Accessories,17,271.64,Mariana,Debit Card,4617.88
+469,2024-07-04,Laptop,Electronics,13,353.5,Pedro,Boleto,4595.5
+62,2024-09-12,Shoes,Clothing,55,82.96,Ana,Credit Card,4562.799999999999
+785,2024-04-22,Hat,Clothing,8,567.72,Pedro,Transfer,4541.76
+726,2024-05-26,Mouse,Electronics,33,137.52,Joao,Debit Card,4538.160000000001
+964,2024-11-19,Socks,Clothing,80,56.25,Maria,Paypal,4500.0
+449,2024-07-13,Book,Books,52,86.38,Maria,Credit Card,4491.76
+734,2024-10-01,backpack,Accessories,36,123.65,Joao,Debit Card,4451.400000000001
+123,2024-10-15,Pants,Clothing,73,60.93,Larissa,Paypal,4447.89
+703,2024-12-03,Shoes,Clothing,9,493.6,Maria,Transfer,4442.400000000001
+769,2024-05-16,Hat,Clothing,84,52.56,Larissa,Pix,4415.04
+384,2024-08-26,Laptop,Electronics,10,439.88,Julia,Pix,4398.8
+216,2024-07-06,Socks,Clothing,73,60.25,Ana,Credit Card,4398.25
+99,2024-04-29,Laptop,Electronics,42,104.14,Lucas,Transfer,4373.88
+828,2024-04-21,T-shirt,Clothing,39,111.81,Lucas,Transfer,4360.59
+387,2024-09-09,T-shirt,Clothing,91,47.76,Ana,Credit Card,4346.16
+988,2024-07-22,Headphone,Electronics,26,166.95,Carlos,Boleto,4340.7
+570,2024-09-07,Headphone,Electronics,29,149.4,Jose,Boleto,4332.6
+509,2024-04-09,Pants,Clothing,22,196.67,Ana,Transfer,4326.74
+675,2024-01-27,Mouse,Electronics,31,139.54,Jose,Pix,4325.74
+562,2024-10-03,Socks,Clothing,18,239.37,Pedro,Paypal,4308.66
+997,2024-12-22,Hat,Clothing,77,55.87,Ana,Transfer,4301.99
+198,2024-11-20,Shoes,Clothing,17,249.91,Larissa,Paypal,4248.47
+827,2024-12-11,Laptop,Electronics,19,223.18,Pedro,Pix,4240.42
+391,2024-02-20,Laptop,Electronics,15,282.36,Pedro,Boleto,4235.400000000001
+299,2024-01-01,Shoes,Clothing,49,86.39,Joao,Pix,4233.11
+109,2024-11-06,Mouse,Electronics,53,79.62,Joao,Pix,4219.860000000001
+600,2024-12-15,Pants,Clothing,29,145.36,Maria,Boleto,4215.4400000000005
+297,2024-02-06,Socks,Clothing,72,58.47,Larissa,Boleto,4209.84
+47,2024-08-26,Pants,Clothing,16,261.41,Mariana,Paypal,4182.56
+663,2024-10-17,Shoes,Clothing,8,522.59,Pedro,Paypal,4180.72
+170,2024-09-17,Pants,Clothing,42,99.06,Pedro,Credit Card,4160.52
+268,2024-01-31,Mouse,Electronics,18,230.91,Julia,Boleto,4156.38
+42,2024-02-22,Hat,Clothing,64,64.76,Maria,Paypal,4144.64
+125,2024-12-23,Hat,Clothing,21,196.42,Jose,Pix,4124.82
+133,2024-08-02,Shoes,Clothing,29,141.32,Maria,Pix,4098.28
+213,2024-01-07,backpack,Accessories,21,191.87,Joao,Boleto,4029.27
+33,2024-05-15,Hat,Clothing,27,148.78,Lucas,Boleto,4017.06
+578,2024-12-17,backpack,Accessories,13,308.34,Larissa,Transfer,4008.4199999999996
+422,2024-02-03,Socks,Clothing,12,330.03,Maria,Boleto,3960.3599999999997
+888,2024-12-06,Headphone,Electronics,18,219.69,Carlos,Pix,3954.42
+598,2024-06-18,Socks,Clothing,53,74.45,Mariana,Credit Card,3945.8500000000004
+67,2024-01-05,Headphone,Electronics,31,126.78,Larissa,Transfer,3930.18
+37,2024-01-25,Shoes,Clothing,26,151.14,Joao,Paypal,3929.6399999999994
+253,2024-10-29,Laptop,Electronics,18,216.97,Ana,Credit Card,3905.46
+87,2024-12-14,backpack,Accessories,16,243.95,Joao,Pix,3903.2
+254,2024-09-01,Mouse,Electronics,63,61.93,Lucas,Debit Card,3901.59
+416,2024-07-22,T-shirt,Clothing,29,134.52,Jose,Credit Card,3901.0800000000004
+443,2024-01-06,T-shirt,Clothing,15,259.16,Jose,Credit Card,3887.4000000000005
+189,2024-06-20,Shoes,Clothing,69,56.07,Ana,Credit Card,3868.83
+879,2024-01-26,Mouse,Electronics,24,160.93,Joao,Debit Card,3862.32
+69,2024-04-05,Shoes,Clothing,65,59.13,Ana,Pix,3843.4500000000003
+858,2024-08-21,backpack,Accessories,11,347.64,Maria,Debit Card,3824.04
+1,2024-09-23,Laptop,Electronics,96,39.11,Maria,Transfer,3754.56
+462,2024-04-09,Hat,Clothing,48,78.07,Pedro,Debit Card,3747.3599999999997
+609,2024-03-23,Pants,Clothing,46,81.28,Mariana,Debit Card,3738.88
+851,2024-12-01,T-shirt,Clothing,19,196.37,Ana,Paypal,3731.03
+934,2024-11-19,Book,Books,13,285.69,Ana,Credit Card,3713.97
+761,2024-02-21,Laptop,Electronics,20,185.37,Maria,Debit Card,3707.4
+878,2024-03-01,Mouse,Electronics,42,87.24,Mariana,Paypal,3664.08
+349,2024-07-29,T-shirt,Clothing,24,151.62,Jose,Credit Card,3638.88
+963,2024-04-06,backpack,Accessories,48,75.55,Carlos,Paypal,3626.3999999999996
+542,2024-06-05,Shoes,Clothing,7,513.45,Jose,Debit Card,3594.1500000000005
+367,2024-11-20,Laptop,Electronics,31,115.84,Mariana,Debit Card,3591.04
+64,2024-07-15,Laptop,Electronics,56,63.91,Ana,Credit Card,3578.96
+177,2024-02-29,Mouse,Electronics,49,72.85,Mariana,Transfer,3569.6499999999996
+225,2024-01-08,Pants,Clothing,87,40.94,Joao,Pix,3561.7799999999997
+272,2024-02-02,Shoes,Clothing,18,197.59,Julia,Transfer,3556.62
+875,2024-10-12,backpack,Accessories,17,207.26,Pedro,Paypal,3523.42
+622,2024-09-06,Headphone,Electronics,34,103.12,Maria,Pix,3506.08
+409,2024-12-31,T-shirt,Clothing,74,47.1,Mariana,Pix,3485.4
+281,2024-07-21,T-shirt,Clothing,13,265.84,Larissa,Paypal,3455.9199999999996
+912,2024-12-23,Pants,Clothing,96,35.43,Pedro,Boleto,3401.2799999999997
+379,2024-04-30,Book,Books,100,33.91,Lucas,Transfer,3390.9999999999995
+420,2024-08-22,Headphone,Electronics,29,116.49,Julia,Pix,3378.21
+519,2024-11-08,T-shirt,Clothing,7,480.54,Mariana,Debit Card,3363.78
+798,2024-01-30,Laptop,Electronics,33,101.83,Joao,Debit Card,3360.39
+72,2024-09-20,Laptop,Electronics,6,558.9,Pedro,Pix,3353.3999999999996
+23,2024-11-09,Mouse,Electronics,23,145.76,Joao,Credit Card,3352.4799999999996
+614,2024-09-20,Mouse,Electronics,7,477.93,Joao,Boleto,3345.51
+510,2024-07-01,Headphone,Electronics,61,54.84,Ana,Credit Card,3345.2400000000002
+937,2024-10-25,T-shirt,Clothing,24,137.19,Mariana,Boleto,3292.56
+415,2024-02-09,backpack,Accessories,6,547.08,Maria,Pix,3282.4800000000005
+447,2024-04-07,Book,Books,85,37.41,Larissa,Credit Card,3179.85
+407,2024-03-03,Socks,Clothing,6,509.93,Ana,Transfer,3059.58
+775,2024-02-01,T-shirt,Clothing,47,63.92,Maria,Paypal,3004.2400000000002
+790,2024-06-09,Shoes,Clothing,25,118.1,Maria,Debit Card,2952.5
+74,2024-08-16,Headphone,Electronics,25,117.51,Larissa,Transfer,2937.75
+642,2024-07-30,Pants,Clothing,21,139.54,Mariana,Debit Card,2930.3399999999997
+751,2024-09-12,Socks,Clothing,8,361.64,Ana,Pix,2893.12
+604,2024-01-08,Mouse,Electronics,6,481.23,Mariana,Debit Card,2887.38
+293,2024-08-25,T-shirt,Clothing,10,288.61,Carlos,Debit Card,2886.1000000000004
+218,2024-11-02,Headphone,Electronics,11,255.8,Larissa,Boleto,2813.8
+821,2024-01-23,Shoes,Clothing,8,351.26,Maria,Boleto,2810.08
+309,2024-12-16,Shoes,Clothing,19,146.54,Jose,Debit Card,2784.2599999999998
+683,2024-07-13,Shoes,Clothing,71,39.0,Joao,Transfer,2769.0
+556,2024-09-16,Socks,Clothing,74,37.25,Maria,Debit Card,2756.5
+987,2024-08-17,Socks,Clothing,15,183.32,Larissa,Boleto,2749.7999999999997
+424,2024-03-06,Headphone,Electronics,15,177.99,Larissa,Credit Card,2669.8500000000004
+750,2024-04-20,backpack,Accessories,44,60.62,Larissa,Paypal,2667.2799999999997
+656,2024-10-30,backpack,Accessories,13,203.54,Pedro,Transfer,2646.02
+155,2024-09-16,Headphone,Electronics,96,27.56,Mariana,Debit Card,2645.7599999999998
+633,2024-08-28,Headphone,Electronics,85,29.93,Julia,Debit Card,2544.05
+287,2024-03-06,Book,Books,5,508.51,Ana,Debit Card,2542.55
+505,2024-10-02,backpack,Accessories,5,508.09,Ana,Credit Card,2540.45
+45,2024-02-10,T-shirt,Clothing,22,115.47,Joao,Boleto,2540.34
+171,2024-03-29,Pants,Clothing,19,133.7,Ana,Debit Card,2540.2999999999997
+520,2024-01-03,Pants,Clothing,70,35.72,Ana,Boleto,2500.4
+508,2024-07-05,Book,Books,5,498.18,Carlos,Boleto,2490.9
+776,2024-02-23,Shoes,Clothing,14,176.85,Mariana,Credit Card,2475.9
+286,2024-10-28,Socks,Clothing,6,410.73,Julia,Debit Card,2464.38
+266,2024-06-20,Headphone,Electronics,31,78.79,Carlos,Debit Card,2442.4900000000002
+473,2024-08-11,Mouse,Electronics,20,120.69,Carlos,Paypal,2413.8
+385,2024-04-22,backpack,Accessories,22,107.01,Mariana,Pix,2354.2200000000003
+359,2024-12-25,Hat,Clothing,5,466.84,Maria,Boleto,2334.2
+983,2024-11-19,T-shirt,Clothing,59,39.23,Carlos,Debit Card,2314.5699999999997
+448,2024-04-06,Shoes,Clothing,5,462.19,Pedro,Paypal,2310.95
+629,2024-11-12,Shoes,Clothing,5,461.0,Julia,Paypal,2305.0
+428,2024-02-01,Book,Books,22,103.74,Pedro,Pix,2282.2799999999997
+9,2024-06-08,Hat,Clothing,58,39.32,Julia,Transfer,2280.56
+753,2024-10-08,Laptop,Electronics,90,25.29,Julia,Debit Card,2276.1
+203,2024-12-25,Mouse,Electronics,25,90.29,Mariana,Boleto,2257.25
+817,2024-11-18,backpack,Accessories,20,112.58,Maria,Credit Card,2251.6
+552,2024-06-25,T-shirt,Clothing,28,78.3,Joao,Debit Card,2192.4
+628,2024-01-21,Pants,Clothing,28,78.29,Jose,Pix,2192.1200000000003
+867,2024-11-25,Mouse,Electronics,15,144.76,Carlos,Paypal,2171.3999999999996
+282,2024-04-07,Headphone,Electronics,57,37.95,Mariana,Paypal,2163.15
+592,2024-12-18,Socks,Clothing,42,51.43,Joao,Transfer,2160.06
+523,2024-01-30,Pants,Clothing,28,76.65,Larissa,Paypal,2146.2000000000003
+832,2024-03-21,Mouse,Electronics,93,22.74,Ana,Credit Card,2114.8199999999997
+529,2024-12-12,Pants,Clothing,5,422.94,Joao,Paypal,2114.7
+849,2024-12-29,Socks,Clothing,70,29.69,Julia,Credit Card,2078.3
+202,2024-05-04,Shoes,Clothing,20,101.19,Mariana,Paypal,2023.8
+673,2024-06-19,Pants,Clothing,82,24.45,Pedro,Paypal,2004.8999999999999
+371,2024-05-31,Mouse,Electronics,37,53.8,Mariana,Credit Card,1990.6
+243,2024-02-29,Socks,Clothing,4,497.04,Lucas,Boleto,1988.16
+296,2024-01-04,Pants,Clothing,32,61.69,Ana,Credit Card,1974.08
+582,2024-10-01,Shoes,Clothing,48,40.52,Lucas,Debit Card,1944.96
+436,2024-10-15,Hat,Clothing,24,80.58,Julia,Debit Card,1933.92
+601,2024-02-03,Laptop,Electronics,9,204.42,Larissa,Paypal,1839.78
+648,2024-09-27,Book,Books,16,112.4,Jose,Paypal,1798.4
+606,2024-03-26,Laptop,Electronics,100,17.86,Maria,Debit Card,1786.0
+839,2024-12-19,Shoes,Clothing,6,296.78,Ana,Transfer,1780.6799999999998
+696,2024-05-12,T-shirt,Clothing,14,126.29,Mariana,Transfer,1768.0600000000002
+630,2024-09-08,Headphone,Electronics,19,89.81,Larissa,Boleto,1706.39
+882,2024-07-10,backpack,Accessories,7,241.19,Maria,Transfer,1688.33
+760,2024-04-21,Socks,Clothing,17,99.26,Carlos,Pix,1687.42
+3,2024-05-03,Headphone,Electronics,52,32.31,Joao,Paypal,1680.1200000000001
+902,2024-04-29,Hat,Clothing,3,559.38,Carlos,Paypal,1678.1399999999999
+169,2024-03-04,Shoes,Clothing,5,334.48,Lucas,Boleto,1672.4
+923,2024-09-09,Laptop,Electronics,3,555.34,Carlos,Credit Card,1666.02
+550,2024-10-07,Book,Books,3,543.57,Mariana,Pix,1630.71
+801,2024-03-02,Shoes,Clothing,5,325.97,Julia,Paypal,1629.8500000000001
+583,2024-03-16,Pants,Clothing,11,146.71,Joao,Transfer,1613.8100000000002
+194,2024-02-29,Socks,Clothing,15,106.79,Pedro,Debit Card,1601.8500000000001
+247,2024-12-16,Shoes,Clothing,15,106.58,Carlos,Pix,1598.7
+768,2024-07-04,Pants,Clothing,43,37.01,Carlos,Debit Card,1591.4299999999998
+814,2024-04-21,Socks,Clothing,13,122.41,Joao,Paypal,1591.33
+739,2024-10-02,backpack,Accessories,12,131.14,Joao,Debit Card,1573.6799999999998
+65,2024-04-09,Pants,Clothing,14,112.22,Larissa,Pix,1571.08
+984,2024-02-14,Shoes,Clothing,80,19.6,Ana,Transfer,1568.0
+711,2024-12-16,Mouse,Electronics,10,156.42,Lucas,Boleto,1564.1999999999998
+671,2024-03-27,T-shirt,Clothing,25,62.4,Joao,Credit Card,1560.0
+513,2024-04-18,Book,Books,9,171.34,Mariana,Boleto,1542.06
+77,2024-11-20,Pants,Clothing,70,21.84,Jose,Paypal,1528.8
+472,2024-03-04,T-shirt,Clothing,17,89.72,Joao,Transfer,1525.24
+382,2024-07-31,Socks,Clothing,65,23.36,Jose,Pix,1518.3999999999999
+690,2024-11-12,Pants,Clothing,8,189.52,Joao,Debit Card,1516.16
+651,2024-07-07,Headphone,Electronics,14,105.33,Joao,Paypal,1474.62
+704,2024-11-02,Shoes,Clothing,8,182.08,Lucas,Pix,1456.64
+71,2024-01-12,backpack,Accessories,7,206.15,Larissa,Credit Card,1443.05
+958,2024-01-16,backpack,Accessories,16,89.87,Mariana,Debit Card,1437.92
+111,2024-09-12,Hat,Clothing,8,177.68,Pedro,Transfer,1421.44
+312,2024-10-10,Shoes,Clothing,5,283.14,Jose,Pix,1415.6999999999998
+180,2024-08-19,Laptop,Electronics,67,20.98,Carlos,Debit Card,1405.66
+49,2024-01-26,Shoes,Clothing,22,62.75,Jose,Paypal,1380.5
+15,2024-04-10,Headphone,Electronics,3,458.23,Carlos,Paypal,1374.69
+486,2024-06-03,T-shirt,Clothing,6,219.95,Maria,Debit Card,1319.6999999999998
+900,2024-01-10,Mouse,Electronics,14,93.48,Mariana,Transfer,1308.72
+887,2024-12-05,Mouse,Electronics,51,25.09,Ana,Boleto,1279.59
+250,2024-01-10,Book,Books,81,15.69,Maria,Boleto,1270.8899999999999
+46,2024-10-31,Laptop,Electronics,8,157.14,Julia,Debit Card,1257.12
+615,2024-05-09,T-shirt,Clothing,3,400.2,Julia,Boleto,1200.6
+100,2024-10-24,Mouse,Electronics,17,70.51,Mariana,Paypal,1198.67
+162,2024-11-08,Shoes,Clothing,4,295.64,Larissa,Paypal,1182.56
+141,2024-04-10,Hat,Clothing,25,46.99,Ana,Pix,1174.75
+235,2024-07-17,Hat,Clothing,7,166.39,Larissa,Transfer,1164.73
+752,2024-12-29,Book,Books,86,13.32,Lucas,Transfer,1145.52
+579,2024-01-23,Pants,Clothing,19,59.87,Lucas,Transfer,1137.53
+610,2024-06-07,Shoes,Clothing,2,567.04,Maria,Credit Card,1134.08
+129,2024-06-29,Book,Books,19,56.91,Lucas,Boleto,1081.29
+175,2024-06-09,Socks,Clothing,2,533.53,Jose,Credit Card,1067.06
+135,2024-03-22,Shoes,Clothing,3,354.49,Jose,Credit Card,1063.47
+543,2024-02-18,Book,Books,67,15.87,Jose,Credit Card,1063.29
+101,2024-10-10,Laptop,Electronics,25,40.97,Jose,Debit Card,1024.25
+774,2024-10-01,Shoes,Clothing,67,15.07,Larissa,Paypal,1009.69
+454,2024-03-04,Book,Books,79,12.75,Mariana,Pix,1007.25
+54,2024-01-17,Socks,Clothing,21,44.02,Julia,Credit Card,924.4200000000001
+700,2024-05-16,Shoes,Clothing,54,16.68,Joao,Paypal,900.72
+685,2024-12-20,Shoes,Clothing,20,44.86,Lucas,Transfer,897.2
+816,2024-01-04,Book,Books,6,149.43,Pedro,Paypal,896.58
+159,2024-12-28,Headphone,Electronics,8,110.57,Julia,Debit Card,884.56
+788,2024-07-28,backpack,Accessories,71,12.2,Lucas,Transfer,866.1999999999999
+533,2024-12-25,Hat,Clothing,54,15.97,Carlos,Transfer,862.38
+876,2024-03-22,Socks,Clothing,39,21.67,Joao,Paypal,845.1300000000001
+90,2024-10-19,Laptop,Electronics,41,20.58,Mariana,Paypal,843.78
+326,2024-06-19,Socks,Clothing,6,137.59,Carlos,Boleto,825.54
+478,2024-04-17,Pants,Clothing,2,406.66,Julia,Boleto,813.32
+274,2024-12-30,Hat,Clothing,5,162.58,Lucas,Boleto,812.9000000000001
+324,2024-04-30,Socks,Clothing,9,90.14,Maria,Credit Card,811.26
+951,2024-07-12,Shoes,Clothing,26,31.16,Ana,Debit Card,810.16
+147,2024-03-20,Laptop,Electronics,20,39.45,Pedro,Debit Card,789.0
+959,2024-01-29,Laptop,Electronics,18,42.14,Pedro,Pix,758.52
+516,2024-03-09,Pants,Clothing,4,186.47,Ana,Credit Card,745.88
+176,2024-12-02,Headphone,Electronics,28,26.22,Larissa,Boleto,734.16
+616,2024-02-21,Headphone,Electronics,2,364.78,Pedro,Credit Card,729.56
+399,2024-03-17,T-shirt,Clothing,26,27.23,Carlos,Pix,707.98
+492,2024-11-19,Hat,Clothing,5,141.03,Mariana,Pix,705.15
+223,2024-11-15,backpack,Accessories,42,16.57,Jose,Pix,695.94
+623,2024-04-25,Mouse,Electronics,57,12.15,Pedro,Paypal,692.5500000000001
+759,2024-02-07,Shoes,Clothing,3,206.14,Joao,Transfer,618.42
+2,2024-08-25,T-shirt,Clothing,2,306.85,Ana,Debit Card,613.7
+273,2024-10-05,Shoes,Clothing,13,46.62,Joao,Pix,606.06
+93,2024-05-15,Mouse,Electronics,53,11.41,Julia,Boleto,604.73
+228,2024-05-06,Headphone,Electronics,34,16.95,Julia,Credit Card,576.3
+929,2024-02-28,Mouse,Electronics,13,43.67,Larissa,Pix,567.71
+219,2024-10-16,Socks,Clothing,5,106.48,Ana,Boleto,532.4
+733,2024-06-13,Shoes,Clothing,23,22.58,Joao,Credit Card,519.3399999999999
+618,2024-07-24,backpack,Accessories,3,167.01,Carlos,Boleto,501.03
+511,2024-08-13,Headphone,Electronics,20,24.22,Maria,Credit Card,484.4
+118,2024-11-30,T-shirt,Clothing,26,18.24,Pedro,Debit Card,474.23999999999995
+971,2024-06-13,backpack,Accessories,1,468.96,Mariana,Transfer,468.96
+102,2024-12-08,Shoes,Clothing,3,153.9,Larissa,Debit Card,461.70000000000005
+308,2024-03-31,Socks,Clothing,9,49.23,Carlos,Boleto,443.07
+729,2024-04-22,Book,Books,4,110.22,Carlos,Paypal,440.88
+530,2024-09-04,Hat,Clothing,27,15.78,Jose,Transfer,426.06
+694,2024-04-14,Pants,Clothing,22,18.97,Jose,Paypal,417.34
+197,2024-10-09,T-shirt,Clothing,2,202.92,Carlos,Pix,405.84
+205,2024-01-10,Socks,Clothing,22,17.86,Larissa,Pix,392.91999999999996
+737,2024-02-07,Hat,Clothing,2,176.35,Lucas,Paypal,352.7
+825,2024-11-07,Socks,Clothing,9,37.8,Jose,Paypal,340.2
+903,2024-03-29,backpack,Accessories,18,17.71,Joao,Paypal,318.78000000000003
+871,2024-04-10,Socks,Clothing,1,316.75,Pedro,Paypal,316.75
+908,2024-11-12,Headphone,Electronics,3,96.73,Larissa,Credit Card,290.19
+107,2024-04-26,Headphone,Electronics,2,140.49,Jose,Credit Card,280.98
+625,2024-11-03,Laptop,Electronics,5,47.93,Maria,Pix,239.65
+994,2024-09-03,Shoes,Clothing,3,77.27,Jose,Credit Card,231.81
+945,2024-07-06,Headphone,Electronics,1,216.17,Carlos,Transfer,216.17
+217,2024-01-02,Mouse,Electronics,3,60.72,Ana,Debit Card,182.16
+245,2024-11-22,Shoes,Clothing,5,36.41,Lucas,Paypal,182.04999999999998
+998,2024-07-17,T-shirt,Clothing,8,20.71,Carlos,Credit Card,165.68
+748,2024-07-14,Book,Books,3,44.04,Julia,Pix,132.12
+762,2024-06-10,backpack,Accessories,5,22.49,Maria,Credit Card,112.44999999999999
+461,2024-03-17,Socks,Clothing,1,90.34,Ana,Transfer,90.34
+890,2024-01-18,backpack,Accessories,1,49.54,Larissa,Paypal,49.54
+842,2024-08-11,Hat,Clothing,1,47.24,Maria,Transfer,47.24
+255,2024-12-07,backpack,Accessories,1,42.09,Larissa,Credit Card,42.09
+56,2024-05-30,T-shirt,Clothing,2,20.78,Larissa,Pix,41.56

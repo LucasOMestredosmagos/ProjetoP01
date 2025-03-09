@@ -1,0 +1,96 @@
+PROJETO FINAL DATA SCIENCE 
+
+1. dados_fic.py Foram gerados e salvos em ecommerce_sales.csv
+2. data_clean.py Limpa os dados e salva em sales_clean.csv
+3. analysis.py: Realiza análise exploratória e teste ANOVA nos dados limpos.
+4. modeling.py: Desenvolve um modelo de regressão linear para prever vendas futuras e avalia sua performance.
+
+Passo a Passo
+
+1. dados_fic :
+Importação das bibliotecas necessárias
+CSV, Random, datetime 
+
+> Fazer uma lista de produtos, categorias, vendedores e métodos de pagamento
+> Após isso fazer uma Função para gerar uma data aleatória entre duas datas
+> Criação do arquivo CSV e escrita dos dados fictícios
+
+2. data_clean : 
+Importação das bibliotecas necessárias
+pandas
+
+> Carregar arquivo CSV
+> Remover a coluna 'total' e duplicatas
+> Converter a coluna 'Date' para o tipo datetime e 'Category' para o tipo category
+> Calcular a coluna 'Total_Sales'
+> Salvar o DataFrame limpo em um novo arquivo CSV
+
+3. analysis :
+Importação das bibliotecas necessárias
+pandas, numpy, matplotlib, seaborn e scipy
+
+> Carregar arquivo CSV
+> Exibir estatísticas descritivas
+> Calcular estatísticas descritivas para colunas numéricas
+> Visualização gráfica das vendas totais por categoria
+> Distribuição das vendas totais
+> Tendência de vendas ao longo do tempo
+
+# ESSA PARTE AQUI A BAIXO É estatísticas
+> Teste ANOVA para verificar diferenças significativas nas vendas entre categorias
+
+4. modeling :
+Importação das bibliotecas necessárias
+pandas, numpy, matplotlib, sklearn(model, linear e metrics)
+
+> Carregar o arquivo CSV a partir do caminho completo ou como preferir
+> Converter a coluna 'Date' para o tipo datetime
+> Selecionar as features (variáveis independentes) e o target (variável dependente)
+> Dividir os dados em conjuntos de treino e teste (60% treino, 40% teste)
+> Inicializar o modelo de regressão linear
+> Treinar o modelo com os dados de treino
+> Fazer previsões no conjunto de teste
+> Avaliar a performance do modelo usando o erro quadrático médio (MSE) e o coeficiente de determinação (R²)
+> Exibir as métricas de avaliação
+> Visualizar as previsões vs. valores reais
+
+Resumindo : 
+
+Projeto Final de Data Science
+
+1. Geração de Dados Fictícios (dados_fic.py):
+
+Importação das bibliotecas necessárias, como CSV, Random e datetime.
+Criação de listas contendo produtos, categorias, vendedores e métodos de pagamento.
+Desenvolvimento de uma função para gerar datas aleatórias entre dois intervalos.
+Criação e gravação de um arquivo CSV com os dados fictícios gerados.
+
+2. Limpeza de Dados (data_clean.py):
+
+Importação da biblioteca pandas.
+Carregamento do arquivo CSV contendo os dados.
+Remoção da coluna 'total' e eliminação de duplicatas.
+Conversão da coluna 'Date' para o formato datetime e da coluna 'Category' para o tipo categórico.
+Cálculo da nova coluna 'Total_Sales'.
+Salvamento do DataFrame limpo em um novo arquivo CSV.
+
+3. Análise Exploratória (analysis.py):
+
+Importação das bibliotecas pandas, numpy, matplotlib, seaborn e scipy.
+Carregamento do arquivo CSV limpo.
+Exibição de estatísticas descritivas dos dados.
+Cálculo de estatísticas descritivas para colunas numéricas.
+Criação de visualizações gráficas para analisar as vendas totais por categoria, a distribuição das vendas e a tendência de vendas ao longo do tempo.
+Realização de um teste ANOVA para identificar diferenças significativas nas vendas entre as categorias.
+
+4. Modelagem Preditiva (modeling.py):
+
+Importação das bibliotecas pandas, numpy, matplotlib e sklearn (model, linear e metrics).
+Carregamento do arquivo CSV com os dados limpos.
+Conversão da coluna 'Date' para o formato datetime.
+Seleção das variáveis independentes (features) e da variável dependente (target).
+Divisão dos dados em conjuntos de treino (60%) e teste (40%).
+Inicialização e treinamento de um modelo de regressão linear com os dados de treino.
+Realização de previsões com o conjunto de teste.
+Avaliação da performance do modelo utilizando o erro quadrático médio (MSE) e o coeficiente de determinação (R²).
+Exibição das métricas de avaliação e visualização das previsões em comparação com os valores reais.
